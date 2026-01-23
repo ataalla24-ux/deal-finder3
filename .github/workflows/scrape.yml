@@ -1,0 +1,39 @@
+name: Mega Scrape Wien Deals
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Run Mega Scraper
+        run: node scraper/power-scraper.js
+        continue-on-error: true
+      
+      - name: Move to docs
+        run: mv deals.json docs/deals.json 2>/dev/null || true
+      
+      - name: Commit & Push
+        run: |
+          git config user.email "bot@github.com"
+          git config user.name "Deal Bot"
+          git add docs/deals.json
+          git diff --staged --quiet || git commit -m "🔄 $(date +'%H:%M') - Deals Update"
+          git pull --rebase origin main || true
+          git push || true

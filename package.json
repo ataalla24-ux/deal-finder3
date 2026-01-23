@@ -1,0 +1,12 @@
+{
+  "name": "freefinder-wien",
+  "version": "2.0.0",
+  "description": "Wien Deals & Freebies Finder",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scraper/power-scraper.js",
+    "firecrawl": "node scraper/firecrawl-scraper.js"
+  },
+  "author": "FreeFinder",
+  "license": "MIT"
+}

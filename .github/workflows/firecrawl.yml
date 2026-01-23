@@ -1,0 +1,36 @@
+name: Firecrawl Premium Scraper
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  firecrawl:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Run Firecrawl Scraper
+        env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+        run: node scraper/firecrawl-scraper.js
+        continue-on-error: true
+      
+      - name: Commit & Push
+        run: |
+          git config user.email "bot@github.com"
+          git config user.name "Firecrawl Bot"
+          git add docs/deals.json
+          git diff --staged --quiet || git commit -m "🔥 Firecrawl: Premium Deals Update"
+          git pull --rebase origin main || true
+          git push || true

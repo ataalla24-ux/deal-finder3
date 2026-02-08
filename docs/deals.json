@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-08T05:43:23.902Z",
-  "totalDeals": 84,
+  "lastUpdated": "2026-02-08T07:52:35.693Z",
+  "totalDeals": 83,
   "deals": [
     {
       "id": "top-1",
@@ -148,7 +148,7 @@
       "priority": 2
     },
     {
-      "id": "html-Vienna.at-1770529340966-r8ksj",
+      "id": "html-Vienna.at-1770537090064-jw658",
       "brand": "Vienna.at",
       "logo": "📰",
       "title": "🎁 Gratis Deal via Vienna.at",
@@ -162,14 +162,14 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-08T05:42:20.966Z"
+      "pubDate": "2026-02-08T07:51:30.064Z"
     },
     {
-      "id": "html-MeinBezirk-1770529342969-gs5qw",
+      "id": "html-MeinBezirk-1770537092837-l4bsd",
       "brand": "MeinBezirk",
       "logo": "📰",
       "title": "🎁 Gratis Deal via MeinBezirk",
-      "description": "kostenlos&#x20;an&#x20;den&#x20;nahezu&#x20;&#x00FC;berall&#x20;in&#x20;Wien&#x20;stattfindenden&#x20;Kursen&#x20;teilne",
+      "description": "kostenlos-einen-vorbereitungskurs-gewinnen_a7960803?ref=curate';\">",
       "type": "gratis",
       "badge": "gratis",
       "category": "wien",
@@ -179,10 +179,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-08T05:42:22.969Z"
+      "pubDate": "2026-02-08T07:51:32.837Z"
     },
     {
-      "id": "html-Kurier-1770529343208-hjwtg",
+      "id": "html-Kurier-1770537093038-vaq7k",
       "brand": "Kurier",
       "logo": "📰",
       "title": "🎁 Gratis Deal via Kurier",
@@ -196,10 +196,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-08T05:42:23.208Z"
+      "pubDate": "2026-02-08T07:51:33.038Z"
     },
     {
-      "id": "html-Krone-1770529344188-rrifr",
+      "id": "html-Krone-1770537093877-qx91u",
       "brand": "Krone",
       "logo": "📰",
       "title": "🎁 Gratis Deal via Krone",
@@ -213,10 +213,27 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-08T05:42:24.188Z"
+      "pubDate": "2026-02-08T07:51:33.877Z"
     },
     {
-      "id": "html-Biorama-1770529352076-ugr5v",
+      "id": "html-Stadtbekannt-1770537101031-yrzq2",
+      "brand": "Stadtbekannt",
+      "logo": "🏙️",
+      "title": "🎁 Gratis Deal via Stadtbekannt",
+      "description": "gratis-genuss-im-graetzl-eine-reise-von-oase-zu-oase/\" >",
+      "type": "gratis",
+      "badge": "gratis",
+      "category": "wien",
+      "source": "Stadtbekannt",
+      "url": "https://www.stadtbekannt.at/",
+      "expires": "Begrenzt",
+      "distance": "Wien",
+      "hot": true,
+      "isNew": true,
+      "pubDate": "2026-02-08T07:51:41.031Z"
+    },
+    {
+      "id": "html-Biorama-1770537102283-667p0",
       "brand": "Biorama",
       "logo": "🌿",
       "title": "🎁 Gratis Deal via Biorama",
@@ -230,27 +247,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-08T05:42:32.076Z"
+      "pubDate": "2026-02-08T07:51:42.283Z"
     },
     {
-      "id": "html-PENNY-1770529357030-xmeny",
-      "brand": "PENNY",
-      "logo": "🛒",
-      "title": "🎁 Gratis Deal via PENNY",
-      "description": "kostenloses%20Abo.%20Los%20geht%27s%21\",\"/rezepte?categories=italienische-kueche\",\"/rezepte/gruener-power-smoothie\",\"/ue",
-      "type": "gratis",
-      "badge": "gratis",
-      "category": "wien",
-      "source": "PENNY Angebote",
-      "url": "https://www.penny.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Wien",
-      "hot": true,
-      "isNew": true,
-      "pubDate": "2026-02-08T05:42:37.030Z"
-    },
-    {
-      "id": "html-Unimarkt-1770529363711-me8fv",
+      "id": "html-Unimarkt-1770537114512-0eplf",
       "brand": "Unimarkt",
       "logo": "🛒",
       "title": "🎁 Gratis Deal via Unimarkt",
@@ -264,10 +264,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-08T05:42:43.711Z"
+      "pubDate": "2026-02-08T07:51:54.512Z"
     },
     {
-      "id": "html-Nah&Frisch-1770529366059-baw7v",
+      "id": "html-Nah&Frisch-1770537117839-378oa",
       "brand": "Nah&Frisch",
       "logo": "🛒",
       "title": "🎁 Gratis Deal via Nah&Frisch",
@@ -281,10 +281,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-08T05:42:46.059Z"
+      "pubDate": "2026-02-08T07:51:57.839Z"
     },
     {
-      "id": "html-Rituals-1770529370310-ebf2q",
+      "id": "html-Rituals-1770537121369-8jt08",
       "brand": "Rituals",
       "logo": "🧴",
       "title": "🎁 Gratis Deal via Rituals",
@@ -298,10 +298,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-08T05:42:50.310Z"
+      "pubDate": "2026-02-08T07:52:01.369Z"
     },
     {
-      "id": "html-Starbucks-1770529381679-6u9ty",
+      "id": "html-Starbucks-1770537132796-eqwwa",
       "brand": "Starbucks",
       "logo": "☕",
       "title": "🎁 Gratis Deal via Starbucks",
@@ -315,10 +315,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-08T05:43:01.679Z"
+      "pubDate": "2026-02-08T07:52:12.796Z"
     },
     {
-      "id": "html-Anker-1770529388358-8in5j",
+      "id": "html-Anker-1770537139808-abh1j",
       "brand": "Anker",
       "logo": "🥖",
       "title": "🎁 Gratis Deal via Anker",
@@ -332,10 +332,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-08T05:43:08.358Z"
+      "pubDate": "2026-02-08T07:52:19.808Z"
     },
     {
-      "id": "html-Electronic4you-1770529391322-0z3bz",
+      "id": "html-Electronic4you-1770537142750-yoi3z",
       "brand": "Electronic4you",
       "logo": "📱",
       "title": "🎁 Gratis Deal via Electronic4you",
@@ -349,10 +349,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-08T05:43:11.322Z"
+      "pubDate": "2026-02-08T07:52:22.750Z"
     },
     {
-      "id": "html-Samsung-1770529391894-q4urd",
+      "id": "html-Samsung-1770537143725-nevfb",
       "brand": "Samsung",
       "logo": "📱",
       "title": "🎁 Gratis Deal via Samsung",
@@ -366,10 +366,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-08T05:43:11.894Z"
+      "pubDate": "2026-02-08T07:52:23.725Z"
     },
     {
-      "id": "rss-1770529397449-wftgd24vi",
+      "id": "rss-1770537149207-vm8vfjcxw",
       "brand": "Google News",
       "logo": "📰",
       "title": "1+1 gratis! Ihre letzte Chance auf Michelle in Wien - Oe24",
@@ -386,24 +386,24 @@
       "pubDate": "2026-02-03T05:00:00.000Z"
     },
     {
-      "id": "rss-1770529397449-7p7ob64av",
-      "brand": "Kostenlose",
+      "id": "rss-1770537149207-yefia0vdb",
+      "brand": "Kostenlos",
       "logo": "📰",
-      "title": "Kostenlose Veranstaltungen: Hier kann man im Februar in Wien gratis wa",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGR1LU1fdUJCbnNiVUlBcU9fNEthWlJaNng0dmc0c3VCNXp2WlRj...",
+      "title": "Kostenlos trainieren in Wien: Fit werden mit dem innovativen Sportprog",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUEdrdUMzS0UtSXlndFVYUjhWby1iU3J6NnRnalZKeDljMHd5TW5H...",
       "type": "gratis",
       "badge": "gratis",
-      "category": "wien",
+      "category": "technik",
       "source": "Google News Wien Gratis",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGR1LU1fdUJCbnNiVUlBcU9fNEthWlJaNng0dmc0c3VCNXp2WlRjckFpNVNBODdBSUxZWU12M2JwVC12UnA3VDJZN01PS2lyaExUNE93QnlHbHhOdS1zTjEwcHJRRFZTMXBGQ2FSUVVuYlk1X3NqZUZaVk9zVktaZEkxR1BrelpZYW0yanlsM09tRjdqOEdKQ1FnLU9nVmJmYUNfXw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUEdrdUMzS0UtSXlndFVYUjhWby1iU3J6NnRnalZKeDljMHd5TW5HZkp4M2NUcjNKb0RHQ2Rxby1FcENmQXhvOFVlZ3dSWnptM2piOWktNUJkcXRRd0VTWHdBN2ZZUTF6T1ZCaVB2SUdZN3JqWFRXYTJ6Qk9uckdrNGZOMUNxT19NT3lQRWpCRUI5YnduSDZsMElndHJmT3ppVGNudU1hUkgzWkE?oc=5",
       "expires": "Begrenzt",
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-01T07:00:09.000Z"
+      "pubDate": "2026-01-29T15:02:56.000Z"
     },
     {
-      "id": "rss-1770529397449-s3fhb2j8v",
+      "id": "rss-1770537149208-2g4txeaym",
       "brand": "Kurzparkzone",
       "logo": "📰",
       "title": "Kurzparkzone in Wien: Längeres Gratis-Parken gefordert - MSN",
@@ -420,7 +420,24 @@
       "pubDate": "2026-01-26T12:23:35.000Z"
     },
     {
-      "id": "rss-1770529397449-uld8ewqf6",
+      "id": "rss-1770537149208-0u16v69bj",
+      "brand": "Gewinnspiel",
+      "logo": "📰",
+      "title": "Gewinnspiel: Jetzt mitmachen &amp; kostenlos einen Vorbereitungskurs g",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOak5tTUpZUWJYcnF1ZGxmb0NPakhOTnBvcVhxNzFPVkF5OTcwOTBh...",
+      "type": "gratis",
+      "badge": "gratis",
+      "category": "wien",
+      "source": "Google News Wien Gratis",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOak5tTUpZUWJYcnF1ZGxmb0NPakhOTnBvcVhxNzFPVkF5OTcwOTBhUmtGMXBHV3c3eVVuYzdBLXNNZTJLOVJpQUQyUjZJVnRGLVp5MzduMmtkM3FxYmh6SUw3REtWV2hwY090ZlVJV1ViTW5wdWltSDQtUGpIWU5jV3pqdjJJNS00X1dxVzhoUjFJZzdITm5Td1VVTGdLNXVtWDBic3UwWXo2YkFnY29fdFdwdw?oc=5",
+      "expires": "Begrenzt",
+      "distance": "Wien",
+      "hot": true,
+      "isNew": true,
+      "pubDate": "2026-01-29T08:00:00.000Z"
+    },
+    {
+      "id": "rss-1770537149208-5vge1oq6r",
       "brand": "Gratis",
       "logo": "📰",
       "title": "Gratis Beratung – Stadt Wien bringt Wohnberatung direkt ins Grätzl - H",
@@ -437,7 +454,7 @@
       "pubDate": "2026-01-25T08:00:00.000Z"
     },
     {
-      "id": "html-TikTok-1770529402030-5jdun",
+      "id": "html-TikTok-1770537153455-nxanb",
       "brand": "TikTok",
       "logo": "🎵",
       "title": "🎁 Gratis Deal via TikTok",
@@ -451,7 +468,7 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-08T05:43:22.030Z"
+      "pubDate": "2026-02-08T07:52:33.455Z"
     },
     {
       "id": "kaffee-2",
@@ -664,7 +681,7 @@
       "hot": false
     },
     {
-      "id": "rss-1770529399283-h24gk76cp",
+      "id": "rss-1770537151018-z4sg9r1g9",
       "brand": "Google News",
       "logo": "🎉",
       "title": "Stars, Eröffnung, Blumen: Ausblick auf den Wiener Opernball 2026 - Vie",
@@ -681,7 +698,7 @@
       "pubDate": "2026-02-06T11:45:00.000Z"
     },
     {
-      "id": "rss-1770529399284-uznn989ox",
+      "id": "rss-1770537151018-rbf9z4wt4",
       "brand": "Winter-Olympia",
       "logo": "🎉",
       "title": "Winter-Olympia 2026: Eröffnung live im ORF – mnews - medianet.at",
@@ -953,7 +970,7 @@
       "hot": true
     },
     {
-      "id": "html-Vienna.at-1770529340968-2oy79",
+      "id": "html-Vienna.at-1770537090066-5lh3s",
       "brand": "Vienna.at",
       "logo": "📰",
       "title": "💰 Rabatt via Vienna.at",
@@ -967,10 +984,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-08T05:42:20.968Z"
+      "pubDate": "2026-02-08T07:51:30.066Z"
     },
     {
-      "id": "html-Kurier-1770529343209-rrh7k",
+      "id": "html-Kurier-1770537093039-b7m5g",
       "brand": "Kurier",
       "logo": "📰",
       "title": "🆕 Neueröffnung via Kurier",
@@ -984,10 +1001,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-08T05:42:23.209Z"
+      "pubDate": "2026-02-08T07:51:33.039Z"
     },
     {
-      "id": "html-Kleine-1770529346483-bkl1z",
+      "id": "html-Kleine-1770537096213-xjas3",
       "brand": "Kleine",
       "logo": "📰",
       "title": "🆕 Neueröffnung via Kleine",
@@ -1001,27 +1018,27 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-08T05:42:26.483Z"
+      "pubDate": "2026-02-08T07:51:36.213Z"
     },
     {
-      "id": "html-Kleine-1770529346483-vr86u",
+      "id": "html-Kleine-1770537096213-56rdf",
       "brand": "Kleine",
       "logo": "📰",
       "title": "💰 Rabatt via Kleine",
-      "description": "-07%20um%2017.09.42.png\"\r\n          width=\"\"\r\n          height=\"\"\r\n        />",
+      "description": "-3%20Doors%20Down%20Singer%20Brad%20Arnold\"\r\n          width=\"\"\r\n          height=\"\"\r\n        />",
       "type": "rabatt",
       "badge": "limited",
-      "category": "wien",
+      "category": "mobilität",
       "source": "Kleine Zeitung",
       "url": "https://www.kleinezeitung.at/",
       "expires": "Begrenzt",
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-08T05:42:26.483Z"
+      "pubDate": "2026-02-08T07:51:36.213Z"
     },
     {
-      "id": "html-Falter-1770529349960-0xyoi",
+      "id": "html-Falter-1770537100075-dpuzz",
       "brand": "Falter",
       "logo": "📰",
       "title": "🆕 Neueröffnung via Falter",
@@ -1035,10 +1052,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-08T05:42:29.960Z"
+      "pubDate": "2026-02-08T07:51:40.075Z"
     },
     {
-      "id": "html-Falter-1770529350099-ayj6l",
+      "id": "html-Falter-1770537100216-esb0d",
       "brand": "Falter",
       "logo": "🎉",
       "title": "💰 Rabatt via Falter",
@@ -1052,10 +1069,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-08T05:42:30.099Z"
+      "pubDate": "2026-02-08T07:51:40.216Z"
     },
     {
-      "id": "html-Wien isst-1770529354491-0yst6",
+      "id": "html-Wien isst-1770537104529-lisfl",
       "brand": "Wien isst",
       "logo": "🍴",
       "title": "🆕 Neueröffnung via Wien isst",
@@ -1069,10 +1086,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-08T05:42:34.491Z"
+      "pubDate": "2026-02-08T07:51:44.529Z"
     },
     {
-      "id": "html-Nah&Frisch-1770529366059-zegup",
+      "id": "html-Nah&Frisch-1770537117840-mccph",
       "brand": "Nah&Frisch",
       "logo": "🛒",
       "title": "🆕 Neueröffnung via Nah&Frisch",
@@ -1086,10 +1103,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-08T05:42:46.059Z"
+      "pubDate": "2026-02-08T07:51:57.840Z"
     },
     {
-      "id": "html-Rituals-1770529370313-spr9i",
+      "id": "html-Rituals-1770537121372-nb0so",
       "brand": "Rituals",
       "logo": "🧴",
       "title": "💰 Rabatt via Rituals",
@@ -1103,10 +1120,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-08T05:42:50.313Z"
+      "pubDate": "2026-02-08T07:52:01.372Z"
     },
     {
-      "id": "html-Five Guys-1770529378257-76ad2",
+      "id": "html-Five Guys-1770537129554-kuc9w",
       "brand": "Five Guys",
       "logo": "🍔",
       "title": "💰 Rabatt via Five Guys",
@@ -1120,10 +1137,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-08T05:42:58.257Z"
+      "pubDate": "2026-02-08T07:52:09.554Z"
     },
     {
-      "id": "html-Aida-1770529384457-p0u3i",
+      "id": "html-Aida-1770537135524-yp6u4",
       "brand": "Aida",
       "logo": "🎀",
       "title": "💰 Rabatt via Aida",
@@ -1137,10 +1154,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-08T05:43:04.457Z"
+      "pubDate": "2026-02-08T07:52:15.524Z"
     },
     {
-      "id": "html-Ströck-1770529387379-5b2u9",
+      "id": "html-Ströck-1770537138831-n65nz",
       "brand": "Ströck",
       "logo": "🥐",
       "title": "💰 Rabatt via Ströck",
@@ -1154,10 +1171,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-08T05:43:07.379Z"
+      "pubDate": "2026-02-08T07:52:18.831Z"
     },
     {
-      "id": "html-Samsung-1770529391895-m7ud7",
+      "id": "html-Samsung-1770537143727-sli2q",
       "brand": "Samsung",
       "logo": "📱",
       "title": "💰 Rabatt via Samsung",
@@ -1171,10 +1188,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-08T05:43:11.895Z"
+      "pubDate": "2026-02-08T07:52:23.727Z"
     },
     {
-      "id": "rss-1770529399926-0bpaay0h1",
+      "id": "rss-1770537151548-5bpe2pjs1",
       "brand": "Google News",
       "logo": "💰",
       "title": "\"Aktion scharf\" in Wien – Fake-Identität! Drogen-Lenker will Polizei t",
@@ -1191,41 +1208,7 @@
       "pubDate": "2026-01-30T13:04:00.000Z"
     },
     {
-      "id": "rss-1770529399926-f5huu3e6h",
-      "brand": "Google News",
-      "logo": "💰",
-      "title": "\"Depperte Aktion\": Zehn Jahre Haft für Schüsse auf Straßenbahn in Penz",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHlnZUdZd2NDOXFKbUtyVEdzaGdoX1RieldiMzBoZ2xFb3JBX09E...",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "technik",
-      "source": "Google News Aktion Wien",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHlnZUdZd2NDOXFKbUtyVEdzaGdoX1RieldiMzBoZ2xFb3JBX09EY3hlYzlEdlJvN1FHRDZfd2dDYk9fbzZaRTZDczc1UXJZZjZla0U3V2xxOXh2YVRQNTE0Ti1Xd3EySS1XUWNqc18weWcxQlpFcTVwNE5idVNPckJBZlgwQzZ1Tm1KRllHRXFfaWhybVFaeUxoQ3FpZmxlLVBzX3lZSEdhb1U?oc=5",
-      "expires": "Begrenzt",
-      "distance": "Wien",
-      "hot": false,
-      "isNew": true,
-      "pubDate": "2026-01-29T13:17:39.000Z"
-    },
-    {
-      "id": "rss-1770529399926-5jbbh3vx2",
-      "brand": "Google News",
-      "logo": "💰",
-      "title": "„Depperte Aktion“: Mann nach Schuss auf Wiener Bim vor Gericht - 5 Min",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNbENJa3hBckRTVzYyM0ZrODUyWmkxZUtFMVR2cGVDYWdHLTQxZnBM...",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "technik",
-      "source": "Google News Aktion Wien",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbENJa3hBckRTVzYyM0ZrODUyWmkxZUtFMVR2cGVDYWdHLTQxZnBMTS0tQWEybmNrSE12N0twWEhsOXFrY1o5STVzTHNvTWQzeVFFcE5yVDAzaTNUXzBTZDhyWjBpVmFkYk1yTlNheDlxLWNVWUNHcUNUb2U5eWdvbFNUcUZWLW9HZWlDaXZscENwdjhGT2FIa0RFem5GTFRX?oc=5",
-      "expires": "Begrenzt",
-      "distance": "Wien",
-      "hot": false,
-      "isNew": true,
-      "pubDate": "2026-01-29T05:59:47.000Z"
-    },
-    {
-      "id": "html-TikTok-1770529402031-smbv1",
+      "id": "html-TikTok-1770537153456-fhphz",
       "brand": "TikTok",
       "logo": "🎵",
       "title": "💰 Rabatt via TikTok",
@@ -1239,7 +1222,7 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-08T05:43:22.031Z"
+      "pubDate": "2026-02-08T07:52:33.456Z"
     },
     {
       "id": "essen-3",

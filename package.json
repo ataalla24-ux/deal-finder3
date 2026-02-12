@@ -1,13 +1,18 @@
 {
   "name": "freefinder-wien",
-  "version": "2.0.0",
-  "description": "Wien Deals & Freebies Finder",
+  "version": "2.1.0",
+  "description": "Wien Deals & Freebies Finder - Enhanced Version",
   "type": "module",
   "scripts": {
     "scrape": "node scraper/power-scraper.js",
-    "firecrawl": "node scraper/firecrawl-scraper.js"
+    "firecrawl": "node scraper/firecrawl-scraper.js",
+    "enhanced": "node scraper/enhanced-scraper.js",
+    "validate": "node scraper/deal-validator.js",
+    "vienna-events": "node scraper/vienna-events-scraper.js",
+    "full-update": "npm run enhanced && npm run validate"
   },
   "author": "FreeFinder",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": ["vienna", "wien", "deals", "free", "gratis", "austria"]
 }
 

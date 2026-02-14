@@ -1,330 +1,7 @@
 {
-  "lastUpdated": "2026-02-14T07:49:54.177Z",
-  "totalDeals": 107,
+  "lastUpdated": "2026-02-14T07:54:47.870Z",
+  "totalDeals": 89,
   "deals": [
-    {
-      "id": "fc-SPAR-1771055292145-trzlr",
-      "brand": "SPAR",
-      "logo": "🛒",
-      "title": "- Aktionen & Flugblätter",
-      "description": "SPAR Angebote: - Aktionen & Flugblätter",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "supermarkt",
-      "source": "Firecrawl: SPAR Angebote",
-      "url": "https://www.spar.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-02-14T07:48:12.145Z"
-    },
-    {
-      "id": "fc-SPAR-1771055292145-g4vju",
-      "brand": "SPAR",
-      "logo": "🛒",
-      "title": "[Aktionen & Flugblätter\\\\",
-      "description": "SPAR Angebote: [Aktionen & Flugblätter\\\\",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "supermarkt",
-      "source": "Firecrawl: SPAR Angebote",
-      "url": "https://www.spar.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-02-14T07:48:12.145Z"
-    },
-    {
-      "id": "fc-SPAR-1771055292145-t83tk",
-      "brand": "SPAR",
-      "logo": "🛒",
-      "title": "!SPAR-Flugblatt-Icon](https://www.spar.at/aktionen \"Zu den SPAR Aktion",
-      "description": "SPAR Angebote: !SPAR-Flugblatt-Icon](https://www.spar.at/aktionen \"Zu den SPAR Aktion",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "supermarkt",
-      "source": "Firecrawl: SPAR Angebote",
-      "url": "https://www.spar.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-02-14T07:48:12.145Z"
-    },
-    {
-      "id": "fc-SPAR-1771055292145-64it9",
-      "brand": "SPAR",
-      "logo": "🛒",
-      "title": "Zum Seitenanfang",
-      "description": "SPAR Angebote: Zum Seitenanfang",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "supermarkt",
-      "source": "Firecrawl: SPAR Angebote",
-      "url": "https://www.spar.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-02-14T07:48:12.145Z"
-    },
-    {
-      "id": "fc-INTERSPAR-1771055293366-uueqk",
-      "brand": "INTERSPAR",
-      "logo": "🛒",
-      "title": "!2026HeaderVerteilerseite-Angebote.jpg",
-      "description": "INTERSPAR: !2026HeaderVerteilerseite-Angebote.jpg",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "supermarkt",
-      "source": "Firecrawl: INTERSPAR",
-      "url": "https://www.interspar.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-02-14T07:48:13.366Z"
-    },
-    {
-      "id": "fc-INTERSPAR-1771055293366-sojlj",
-      "brand": "INTERSPAR",
-      "logo": "🛒",
-      "title": "Alle laufenden Angebote und Vergünstigungen im Überblick",
-      "description": "INTERSPAR: Alle laufenden Angebote und Vergünstigungen im Überblick",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "supermarkt",
-      "source": "Firecrawl: INTERSPAR",
-      "url": "https://www.interspar.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-02-14T07:48:13.366Z"
-    },
-    {
-      "id": "fc-INTERSPAR-1771055293366-l6u8d",
-      "brand": "INTERSPAR",
-      "logo": "🛒",
-      "title": "Top-Produkte von zum besten Preis: INTERSPAR macht’s möglich! Mit unse",
-      "description": "INTERSPAR: Top-Produkte von zum besten Preis: INTERSPAR macht’s möglich! Mit unse",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "supermarkt",
-      "source": "Firecrawl: INTERSPAR",
-      "url": "https://www.interspar.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-02-14T07:48:13.366Z"
-    },
-    {
-      "id": "fc-INTERSPAR-1771055293366-ogrf0",
-      "brand": "INTERSPAR",
-      "logo": "🛒",
-      "title": "!2026-VerteilerseiteSALE-SUPERKAUF.jpg",
-      "description": "INTERSPAR: !2026-VerteilerseiteSALE-SUPERKAUF.jpg",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "supermarkt",
-      "source": "Firecrawl: INTERSPAR",
-      "url": "https://www.interspar.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-02-14T07:48:13.366Z"
-    },
-    {
-      "id": "fc-INTERSPAR-1771055293367-lto15",
-      "brand": "INTERSPAR",
-      "logo": "🛒",
-      "title": "SUPERKAUF: Online zugreifen und sparen",
-      "description": "INTERSPAR: SUPERKAUF: Online zugreifen und sparen",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "supermarkt",
-      "source": "Firecrawl: INTERSPAR",
-      "url": "https://www.interspar.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-02-14T07:48:13.367Z"
-    },
-    {
-      "id": "fc-MediaMarkt-1771055294525-g5el7",
-      "brand": "MediaMarkt",
-      "logo": "📺",
-      "title": "Zum Hauptinhalt wechseln",
-      "description": "MediaMarkt: Zum Hauptinhalt wechseln",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "technik",
-      "source": "Firecrawl: MediaMarkt",
-      "url": "https://www.mediamarkt.at/de/campaign/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-02-14T07:48:14.525Z"
-    },
-    {
-      "id": "fc-MediaMarkt-1771055294525-qu247",
-      "brand": "MediaMarkt",
-      "logo": "📺",
-      "title": "- Gratis Paketversand für myMM Mitglieder ab 49,- im Onlineshop\\\\\\\\",
-      "description": "MediaMarkt: - Gratis Paketversand für myMM Mitglieder ab 49,- im Onlineshop\\\\\\\\",
-      "type": "gratis",
-      "badge": "gratis",
-      "category": "technik",
-      "source": "Firecrawl: MediaMarkt",
-      "url": "https://www.mediamarkt.at/de/campaign/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": true,
-      "isNew": true,
-      "pubDate": "2026-02-14T07:48:14.525Z"
-    },
-    {
-      "id": "fc-MediaMarkt-1771055294525-b53fs",
-      "brand": "MediaMarkt",
-      "logo": "📺",
-      "title": "- ![TV, Hifi + Navigation\\\\",
-      "description": "MediaMarkt: - ![TV, Hifi + Navigation\\\\",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "technik",
-      "source": "Firecrawl: MediaMarkt",
-      "url": "https://www.mediamarkt.at/de/campaign/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-02-14T07:48:14.525Z"
-    },
-    {
-      "id": "fc-MediaMarkt-1771055294525-uwqvy",
-      "brand": "MediaMarkt",
-      "logo": "📺",
-      "title": "3% Küchengeräte](https://www.mediamarkt.at/de/category/k%C3%BCchenger%C3%",
-      "description": "MediaMarkt: Küchengeräte](https://www.mediamarkt.at/de/category/k%C3%BCchenger%C3%",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "technik",
-      "source": "Firecrawl: MediaMarkt",
-      "url": "https://www.mediamarkt.at/de/campaign/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": false,
-      "isNew": true,
-      "pubDate": "2026-02-14T07:48:14.525Z"
-    },
-    {
-      "id": "fc-Saturn-1771055295903-4wvsx",
-      "brand": "Saturn",
-      "logo": "📺",
-      "title": "Mega-Technik. Eiskalt reduziert!",
-      "description": "Saturn: Mega-Technik. Eiskalt reduziert!",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "technik",
-      "source": "Firecrawl: Saturn",
-      "url": "https://www.saturn.at/de/campaign/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-02-14T07:48:15.903Z"
-    },
-    {
-      "id": "fc-Saturn-1771055295903-dus6c",
-      "brand": "Saturn",
-      "logo": "📺",
-      "title": "Nur noch für kurze Zeit gibt es Sonderangebote, Restposten, Einzelstüc",
-      "description": "Saturn: Nur noch für kurze Zeit gibt es Sonderangebote, Restposten, Einzelstüc",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "technik",
-      "source": "Firecrawl: Saturn",
-      "url": "https://www.saturn.at/de/campaign/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-02-14T07:48:15.903Z"
-    },
-    {
-      "id": "fc-Saturn-1771055295903-qfco0",
-      "brand": "Saturn",
-      "logo": "📺",
-      "title": "Zu den Angeboten",
-      "description": "Saturn: Zu den Angeboten",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "technik",
-      "source": "Firecrawl: Saturn",
-      "url": "https://www.saturn.at/de/campaign/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-02-14T07:48:15.903Z"
-    },
-    {
-      "id": "fc-Saturn-1771055295903-t8sox",
-      "brand": "Saturn",
-      "logo": "📺",
-      "title": "Mega Mac Angebote",
-      "description": "Saturn: Mega Mac Angebote",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "technik",
-      "source": "Firecrawl: Saturn",
-      "url": "https://www.saturn.at/de/campaign/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-02-14T07:48:15.903Z"
-    },
-    {
-      "id": "fc-BIPA-1771055327190-zbpzm",
-      "brand": "BIPA",
-      "logo": "💇",
-      "title": "10% 26DE1616-57D6-408A-8F66-14D3D4E6F40864B08BCF-4E29-4D11-B9A7-E8B92F8A1B",
-      "description": "BIPA: 26DE1616-57D6-408A-8F66-14D3D4E6F40864B08BCF-4E29-4D11-B9A7-E8B92F8A1B",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "beauty",
-      "source": "Firecrawl: BIPA",
-      "url": "https://www.bipa.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": false,
-      "isNew": true,
-      "pubDate": "2026-02-14T07:48:47.190Z"
-    },
-    {
-      "id": "fc-BIPA-1771055327190-xnc4x",
-      "brand": "BIPA",
-      "logo": "💇",
-      "title": "Weiter zum Inhalt",
-      "description": "BIPA: Weiter zum Inhalt",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "beauty",
-      "source": "Firecrawl: BIPA",
-      "url": "https://www.bipa.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-02-14T07:48:47.190Z"
-    },
     {
       "id": "top-1",
       "brand": "OMV VIVA",
@@ -471,7 +148,7 @@
       "priority": 2
     },
     {
-      "id": "html-Vienna.at-1771052971518-9ti7a",
+      "id": "html-Vienna.at-1771055630475-cxbnh",
       "brand": "Vienna.at",
       "logo": "📰",
       "title": "🎁 Gratis Deal via Vienna.at",
@@ -485,10 +162,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-14T07:09:31.518Z"
+      "pubDate": "2026-02-14T07:53:50.475Z"
     },
     {
-      "id": "html-MeinBezirk-1771052973687-9wyg0",
+      "id": "html-MeinBezirk-1771055632510-cg5qr",
       "brand": "MeinBezirk",
       "logo": "📰",
       "title": "🎁 Gratis Deal via MeinBezirk",
@@ -502,10 +179,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-14T07:09:33.687Z"
+      "pubDate": "2026-02-14T07:53:52.510Z"
     },
     {
-      "id": "html-Kurier-1771052973869-snn87",
+      "id": "html-Kurier-1771055632708-8eual",
       "brand": "Kurier",
       "logo": "📰",
       "title": "🎁 Gratis Deal via Kurier",
@@ -519,10 +196,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-14T07:09:33.869Z"
+      "pubDate": "2026-02-14T07:53:52.708Z"
     },
     {
-      "id": "html-Krone-1771052975235-1au61",
+      "id": "html-Krone-1771055633629-ctsht",
       "brand": "Krone",
       "logo": "📰",
       "title": "🎁 Gratis Deal via Krone",
@@ -536,10 +213,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-14T07:09:35.235Z"
+      "pubDate": "2026-02-14T07:53:53.629Z"
     },
     {
-      "id": "html-Biorama-1771052984700-s48ki",
+      "id": "html-Biorama-1771055643612-u15um",
       "brand": "Biorama",
       "logo": "🌿",
       "title": "🎁 Gratis Deal via Biorama",
@@ -553,10 +230,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-14T07:09:44.701Z"
+      "pubDate": "2026-02-14T07:54:03.612Z"
     },
     {
-      "id": "html-PENNY-1771052991729-8wual",
+      "id": "html-PENNY-1771055649567-cs0rw",
       "brand": "PENNY",
       "logo": "🛒",
       "title": "🎁 Gratis Deal via PENNY",
@@ -570,10 +247,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-14T07:09:51.729Z"
+      "pubDate": "2026-02-14T07:54:09.567Z"
     },
     {
-      "id": "html-Nah&Frisch-1771052995265-t1ieh",
+      "id": "html-Nah&Frisch-1771055652440-e919n",
       "brand": "Nah&Frisch",
       "logo": "🛒",
       "title": "🎁 Gratis Deal via Nah&Frisch",
@@ -587,10 +264,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-14T07:09:55.265Z"
+      "pubDate": "2026-02-14T07:54:12.440Z"
     },
     {
-      "id": "html-Rituals-1771052998878-j027y",
+      "id": "html-Rituals-1771055655669-4ulbl",
       "brand": "Rituals",
       "logo": "🧴",
       "title": "🎁 Gratis Deal via Rituals",
@@ -604,10 +281,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-14T07:09:58.878Z"
+      "pubDate": "2026-02-14T07:54:15.669Z"
     },
     {
-      "id": "html-Starbucks-1771053013146-prk7u",
+      "id": "html-Starbucks-1771055667537-qd6c0",
       "brand": "Starbucks",
       "logo": "☕",
       "title": "🎁 Gratis Deal via Starbucks",
@@ -621,10 +298,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-14T07:10:13.146Z"
+      "pubDate": "2026-02-14T07:54:27.537Z"
     },
     {
-      "id": "html-Anker-1771053020338-ic4zt",
+      "id": "html-Anker-1771055673691-20xp4",
       "brand": "Anker",
       "logo": "🥖",
       "title": "🎁 Gratis Deal via Anker",
@@ -638,10 +315,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-14T07:10:20.338Z"
+      "pubDate": "2026-02-14T07:54:33.691Z"
     },
     {
-      "id": "html-Electronic4you-1771053023794-5sxy1",
+      "id": "html-Electronic4you-1771055676274-oakig",
       "brand": "Electronic4you",
       "logo": "📱",
       "title": "🎁 Gratis Deal via Electronic4you",
@@ -655,10 +332,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-14T07:10:23.794Z"
+      "pubDate": "2026-02-14T07:54:36.274Z"
     },
     {
-      "id": "html-Samsung-1771053025621-gca35",
+      "id": "html-Samsung-1771055677101-f8m28",
       "brand": "Samsung",
       "logo": "📱",
       "title": "🎁 Gratis Deal via Samsung",
@@ -672,10 +349,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-14T07:10:25.621Z"
+      "pubDate": "2026-02-14T07:54:37.101Z"
     },
     {
-      "id": "rss-1771053032354-rrhg7tu7s",
+      "id": "rss-1771055681980-z8mwaspcq",
       "brand": "Neuer",
       "logo": "📰",
       "title": "Neuer Sponsor für gratis Symphoniker-Konzerte - wien.ORF.at",
@@ -692,7 +369,7 @@
       "pubDate": "2026-02-10T11:01:28.000Z"
     },
     {
-      "id": "rss-1771053032355-er9qjfvxv",
+      "id": "rss-1771055681981-fyer9yxw0",
       "brand": "Selbsthilfe",
       "logo": "📰",
       "title": "Selbsthilfe in Wien: Neues Verzeichnis kostenlos abrufbar - Wiener Bez",
@@ -709,7 +386,7 @@
       "pubDate": "2026-02-09T12:45:08.000Z"
     },
     {
-      "id": "rss-1771053032355-ne85us8ca",
+      "id": "rss-1771055681981-0xckbzo1g",
       "brand": "Google News",
       "logo": "📰",
       "title": "1+1 gratis! Ihre letzte Chance auf Michelle in Wien - Oe24",
@@ -726,7 +403,7 @@
       "pubDate": "2026-02-03T08:00:00.000Z"
     },
     {
-      "id": "html-TikTok-1771053037517-83o8y",
+      "id": "html-TikTok-1771055686015-il9ww",
       "brand": "TikTok",
       "logo": "🎵",
       "title": "🎁 Gratis Deal via TikTok",
@@ -740,7 +417,7 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-02-14T07:10:37.517Z"
+      "pubDate": "2026-02-14T07:54:46.015Z"
     },
     {
       "id": "kaffee-2",
@@ -953,24 +630,7 @@
       "hot": false
     },
     {
-      "id": "rss-1771053032906-rss7drvfi",
-      "brand": "Neueröffnung",
-      "logo": "🆕",
-      "title": "Neueröffnung: Inari Tofu-Taschen und Dip-Nudeln bei »Papa Duck« in Wie",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHJtUjZadEREbnRFQXV2MnFrWWFPUjNwWl9PbmtvRUVFeGREWjNV...",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "technik",
-      "source": "Google News Neueröffnung",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHJtUjZadEREbnRFQXV2MnFrWWFPUjNwWl9PbmtvRUVFeGREWjNVRTRObllqc05EM3AyVFVlZkZTa1pQNGFjWWJMWmlMbmhGRUFxUjNhVUp2Y2h3Q0NsUTYxdUtRV3NlLWt4UWd5THFyNlZHSlI3aVUtUUZBWWxFUE11LVhHU3o0QUwxVnk4YWxlMmFWNEZDR0Qwd3R6eE51NVVHRw?oc=5",
-      "expires": "Neueröffnung",
-      "distance": "Wien",
-      "hot": true,
-      "isNew": true,
-      "pubDate": "2026-02-12T10:30:25.000Z"
-    },
-    {
-      "id": "rss-1771053032906-zwhd6uy2m",
+      "id": "rss-1771055682483-rn821csh6",
       "brand": "Neueröffnung",
       "logo": "🆕",
       "title": "Neueröffnung: Hong Kong Cafe - Gastro.News",
@@ -987,7 +647,24 @@
       "pubDate": "2026-02-09T22:41:03.000Z"
     },
     {
-      "id": "rss-1771053034349-p09vdvc1t",
+      "id": "rss-1771055682483-7s9x5o06r",
+      "brand": "Neueröffnung",
+      "logo": "🆕",
+      "title": "Neueröffnung: Inari Tofu-Taschen und Dip-Nudeln bei »Papa Duck« in Wie",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHJtUjZadEREbnRFQXV2MnFrWWFPUjNwWl9PbmtvRUVFeGREWjNV...",
+      "type": "rabatt",
+      "badge": "limited",
+      "category": "technik",
+      "source": "Google News Neueröffnung",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHJtUjZadEREbnRFQXV2MnFrWWFPUjNwWl9PbmtvRUVFeGREWjNVRTRObllqc05EM3AyVFVlZkZTa1pQNGFjWWJMWmlMbmhGRUFxUjNhVUp2Y2h3Q0NsUTYxdUtRV3NlLWt4UWd5THFyNlZHSlI3aVUtUUZBWWxFUE11LVhHU3o0QUwxVnk4YWxlMmFWNEZDR0Qwd3R6eE51NVVHRw?oc=5",
+      "expires": "Neueröffnung",
+      "distance": "Wien",
+      "hot": true,
+      "isNew": true,
+      "pubDate": "2026-02-12T10:30:25.000Z"
+    },
+    {
+      "id": "rss-1771055683774-b1l87tp40",
       "brand": "Wiener",
       "logo": "🎉",
       "title": "Wiener Opernball 2026 LIVE miterleben: Eröffnung, roter Teppich und al",
@@ -1004,7 +681,7 @@
       "pubDate": "2026-02-12T18:07:00.000Z"
     },
     {
-      "id": "rss-1771053034350-nucrtm5te",
+      "id": "rss-1771055683774-3gzdpz3vh",
       "brand": "Google News",
       "logo": "🎉",
       "title": "Stars, Eröffnung, Blumen: Ausblick auf den Wiener Opernball 2026 - Vie",
@@ -1021,7 +698,7 @@
       "pubDate": "2026-02-06T11:45:00.000Z"
     },
     {
-      "id": "rss-1771053034350-nmgmo69ex",
+      "id": "rss-1771055683775-fcz43q1qy",
       "brand": "Winter-Olympia",
       "logo": "🎉",
       "title": "Winter-Olympia 2026: Eröffnung live im ORF – mnews - medianet.at",
@@ -1293,7 +970,7 @@
       "hot": true
     },
     {
-      "id": "html-Vienna.at-1771052971520-3a3bz",
+      "id": "html-Vienna.at-1771055630477-at5xf",
       "brand": "Vienna.at",
       "logo": "📰",
       "title": "💰 Rabatt via Vienna.at",
@@ -1307,10 +984,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-14T07:09:31.520Z"
+      "pubDate": "2026-02-14T07:53:50.477Z"
     },
     {
-      "id": "html-MeinBezirk-1771052973687-o8u1l",
+      "id": "html-MeinBezirk-1771055632510-u9x15",
       "brand": "MeinBezirk",
       "logo": "📰",
       "title": "🆕 Neueröffnung via MeinBezirk",
@@ -1324,10 +1001,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-14T07:09:33.687Z"
+      "pubDate": "2026-02-14T07:53:52.510Z"
     },
     {
-      "id": "html-Krone-1771052975236-gj9se",
+      "id": "html-Krone-1771055633630-0cgfr",
       "brand": "Krone",
       "logo": "📰",
       "title": "🆕 Neueröffnung via Krone",
@@ -1341,10 +1018,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-14T07:09:35.236Z"
+      "pubDate": "2026-02-14T07:53:53.630Z"
     },
     {
-      "id": "html-Kleine-1771052977724-5417v",
+      "id": "html-Kleine-1771055636489-ezqgz",
       "brand": "Kleine",
       "logo": "📰",
       "title": "🆕 Neueröffnung via Kleine",
@@ -1358,10 +1035,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-14T07:09:37.724Z"
+      "pubDate": "2026-02-14T07:53:56.489Z"
     },
     {
-      "id": "html-Kleine-1771052977724-mf2f0",
+      "id": "html-Kleine-1771055636489-gypsp",
       "brand": "Kleine",
       "logo": "📰",
       "title": "💰 Rabatt via Kleine",
@@ -1375,10 +1052,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-14T07:09:37.724Z"
+      "pubDate": "2026-02-14T07:53:56.489Z"
     },
     {
-      "id": "html-Falter-1771052981925-g80aj",
+      "id": "html-Falter-1771055640149-axll3",
       "brand": "Falter",
       "logo": "📰",
       "title": "🆕 Neueröffnung via Falter",
@@ -1392,10 +1069,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-14T07:09:41.925Z"
+      "pubDate": "2026-02-14T07:54:00.149Z"
     },
     {
-      "id": "html-Falter-1771052982093-c4iek",
+      "id": "html-Falter-1771055640292-92jsz",
       "brand": "Falter",
       "logo": "🎉",
       "title": "💰 Rabatt via Falter",
@@ -1409,10 +1086,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-14T07:09:42.093Z"
+      "pubDate": "2026-02-14T07:54:00.292Z"
     },
     {
-      "id": "html-A-List-1771052986647-d1fl5",
+      "id": "html-A-List-1771055645372-jbtj4",
       "brand": "A-List",
       "logo": "⭐",
       "title": "🆕 Neueröffnung via A-List",
@@ -1426,10 +1103,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-14T07:09:46.647Z"
+      "pubDate": "2026-02-14T07:54:05.372Z"
     },
     {
-      "id": "html-Wien isst-1771052989260-22ekc",
+      "id": "html-Wien isst-1771055647747-xtpe0",
       "brand": "Wien isst",
       "logo": "🍴",
       "title": "🆕 Neueröffnung via Wien isst",
@@ -1443,10 +1120,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-14T07:09:49.260Z"
+      "pubDate": "2026-02-14T07:54:07.747Z"
     },
     {
-      "id": "html-HOFER-1771052990585-gtr6y",
+      "id": "html-HOFER-1771055648567-gw55x",
       "brand": "HOFER",
       "logo": "🛒",
       "title": "💰 Rabatt via HOFER",
@@ -1460,10 +1137,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-14T07:09:50.585Z"
+      "pubDate": "2026-02-14T07:54:08.567Z"
     },
     {
-      "id": "html-Nah&Frisch-1771052995265-kearx",
+      "id": "html-Nah&Frisch-1771055652440-2daio",
       "brand": "Nah&Frisch",
       "logo": "🛒",
       "title": "🆕 Neueröffnung via Nah&Frisch",
@@ -1477,10 +1154,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-14T07:09:55.265Z"
+      "pubDate": "2026-02-14T07:54:12.440Z"
     },
     {
-      "id": "html-Rituals-1771052998881-nypwa",
+      "id": "html-Rituals-1771055655672-9oapk",
       "brand": "Rituals",
       "logo": "🧴",
       "title": "💰 Rabatt via Rituals",
@@ -1494,10 +1171,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-14T07:09:58.881Z"
+      "pubDate": "2026-02-14T07:54:15.672Z"
     },
     {
-      "id": "html-Five Guys-1771053007956-2rwtp",
+      "id": "html-Five Guys-1771055663932-lquvp",
       "brand": "Five Guys",
       "logo": "🍔",
       "title": "💰 Rabatt via Five Guys",
@@ -1511,10 +1188,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-14T07:10:07.956Z"
+      "pubDate": "2026-02-14T07:54:23.932Z"
     },
     {
-      "id": "html-Aida-1771053016034-10ea9",
+      "id": "html-Aida-1771055670062-68nuk",
       "brand": "Aida",
       "logo": "🎀",
       "title": "💰 Rabatt via Aida",
@@ -1528,10 +1205,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-14T07:10:16.034Z"
+      "pubDate": "2026-02-14T07:54:30.062Z"
     },
     {
-      "id": "html-Ströck-1771053019355-5ligd",
+      "id": "html-Ströck-1771055672679-sn3dl",
       "brand": "Ströck",
       "logo": "🥐",
       "title": "💰 Rabatt via Ströck",
@@ -1545,10 +1222,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-14T07:10:19.355Z"
+      "pubDate": "2026-02-14T07:54:32.679Z"
     },
     {
-      "id": "html-Samsung-1771053025622-jm3m6",
+      "id": "html-Samsung-1771055677103-7gzlv",
       "brand": "Samsung",
       "logo": "📱",
       "title": "💰 Rabatt via Samsung",
@@ -1562,10 +1239,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-14T07:10:25.622Z"
+      "pubDate": "2026-02-14T07:54:37.103Z"
     },
     {
-      "id": "rss-1771053034899-8fqd8zu8w",
+      "id": "rss-1771055684292-7rogokd5s",
       "brand": "Vienna",
       "logo": "💰",
       "title": "Vienna Calling Menü im Vienna 1st | -30 % Rabatt - Gastro.News",
@@ -1582,24 +1259,7 @@
       "pubDate": "2026-02-13T10:51:03.000Z"
     },
     {
-      "id": "rss-1771053034899-euu5h7raf",
-      "brand": "Liebesmenü",
-      "logo": "💰",
-      "title": "Liebesmenü im Vienna 1st | – 30 % Rabatt - Gastro.News",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1IT2pKazVEZWs1WVJVcHdyTjFMbVNaRHlHdWJNQkp6dnBmSUY0NmNR...",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "essen",
-      "source": "Google News Aktion Wien",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IT2pKazVEZWs1WVJVcHdyTjFMbVNaRHlHdWJNQkp6dnBmSUY0NmNRdGJqWjlIR05JQVo5R1RzS2FVZWxWYXdGVUhFSUhaSml5Zk9DOFZfRE9jS0JYWEhwbGJFZjVqOEtaVjk3c3Z3?oc=5",
-      "expires": "Begrenzt",
-      "distance": "Wien",
-      "hot": false,
-      "isNew": true,
-      "pubDate": "2026-02-13T10:41:32.000Z"
-    },
-    {
-      "id": "rss-1771053034899-40wyhlhoe",
+      "id": "rss-1771055684292-tcszq7q6o",
       "brand": "Gefährliche",
       "logo": "💰",
       "title": "Gefährliche Aktion: Unbekannte warfen Mülltonnen auf U-Bahn-Gleise - 5",
@@ -1616,7 +1276,41 @@
       "pubDate": "2026-02-10T12:17:46.000Z"
     },
     {
-      "id": "html-TikTok-1771053037518-3v54p",
+      "id": "rss-1771055684292-uo2wbb5zm",
+      "brand": "Liebesmenü",
+      "logo": "💰",
+      "title": "Liebesmenü im Vienna 1st | – 30 % Rabatt - Gastro.News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1IT2pKazVEZWs1WVJVcHdyTjFMbVNaRHlHdWJNQkp6dnBmSUY0NmNR...",
+      "type": "rabatt",
+      "badge": "limited",
+      "category": "essen",
+      "source": "Google News Aktion Wien",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IT2pKazVEZWs1WVJVcHdyTjFMbVNaRHlHdWJNQkp6dnBmSUY0NmNRdGJqWjlIR05JQVo5R1RzS2FVZWxWYXdGVUhFSUhaSml5Zk9DOFZfRE9jS0JYWEhwbGJFZjVqOEtaVjk3c3Z3?oc=5",
+      "expires": "Begrenzt",
+      "distance": "Wien",
+      "hot": false,
+      "isNew": true,
+      "pubDate": "2026-02-13T10:41:32.000Z"
+    },
+    {
+      "id": "rss-1771055684292-y3mh3xsva",
+      "brand": "Vienna",
+      "logo": "💰",
+      "title": "Vienna Calling Menü inmitten von Wien | -30 % Rabatt - Gastro.News",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNMFkxNFJWRFMxNGJkQ0lLZ2JIdnlpb203VkJwYm53WGFxdU5iMi1z...",
+      "type": "rabatt",
+      "badge": "limited",
+      "category": "technik",
+      "source": "Google News Aktion Wien",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMFkxNFJWRFMxNGJkQ0lLZ2JIdnlpb203VkJwYm53WGFxdU5iMi1zVlVpbTNMZ1ZMOXdFa0R2czdlR014ZU1rYVpxWWdSeHgzNk82NDhtVkc0cVpBR19PZU5uUy1iLTl4ek4tdzBTeXBINkY1eUNxVkZXNy1DVUMzU3NkUlItUFkxNU4yWUNRRm1aaDU5YUJHRVFGeExham1JbmdOUk92WDYwa0ZMTGxTVzBlbDlHQQ?oc=5",
+      "expires": "Begrenzt",
+      "distance": "Wien",
+      "hot": false,
+      "isNew": true,
+      "pubDate": "2026-02-11T03:26:23.000Z"
+    },
+    {
+      "id": "html-TikTok-1771055686016-egtir",
       "brand": "TikTok",
       "logo": "🎵",
       "title": "💰 Rabatt via TikTok",
@@ -1630,7 +1324,7 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-02-14T07:10:37.518Z"
+      "pubDate": "2026-02-14T07:54:46.016Z"
     },
     {
       "id": "essen-3",

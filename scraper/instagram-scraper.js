@@ -28,9 +28,9 @@ const CONFIG = {
   maxDealsPerRun: 15,       // Mehr Deals da 2 Quellen (Hashtags + Accounts)
   minScore: 50,
   reviewMinScore: 35,
-  maxAgeDays: 10,            // 10 Tage statt 7 (mehr Posts erwischen)
+  maxAgeDays: 7,             // 7 Tage (täglich scrapen = reicht locker)
   maxHashtags: 25,
-  postsPerHashtag: 50,       // Mehr Posts pro Hashtag (war 30)
+  postsPerHashtag: 30,       // 30 statt 50 (täglich statt 4x/Woche → gleiches Gesamtvolumen)
   dealExpiryDays: 10,        // Deals 10 Tage behalten
   maxDealsPerBrand: 2,       // Max 2 Deals pro Brand pro Run
 };
@@ -68,26 +68,29 @@ function matchKeywords(text, keywords) {
 // ============================================
 
 const HASHTAGS = [
-  // === TIER 1: Bestätigt aktiv von Minimax/OpenClaw ===
+  // === TIER 1: Direkte Gratis/Eröffnungs-Hashtags ===
   'gratiswien',              // ✅ bestätigt - direkter Wien+Gratis Treffer
-  'gewinnspiel',             // ✅ SEHR aktiv - Giveaways
-  'verlosung',               // ✅ bestätigt - Raffles
   'neueröffnung',            // ✅ bestätigt - Gratis-Aktionen bei Openings
   'eröffnung',               // ✅ bestätigt
-  // === TIER 2: Bestätigt aktiv ===
+  // === TIER 2: Deal-Hashtags ===
   'aktionwien',              // ✅ bestätigt
-  'kostenlos',               // ✅ bestätigt (generisch, Caption braucht Wien-Filter)
-  'gratisprobe',             // ✅ bestätigt (viel Beauty)
+  'kostenlos',               // ✅ bestätigt (Wien-Filter in Caption)
+  'gratisprobe',             // ✅ bestätigt
   'geschenk',                // ✅ bestätigt
   'produkttest',             // ✅ bestätigt
   'freebie',                 // ✅ bestätigt
-  // === TIER 3: Food-Nische Wien (bestätigt) ===
-  'dönerwien',               // ✅ bestätigt - Döner-Deals
-  'kebapwien',               // ✅ bestätigt - Kebab-Deals
-  'döner',                   // ✅ Minimax: "sehr aktiv" - breit, Wien-Filter in Caption
-  'kebap',                   // ✅ bestätigt - breit
-  'kaffeewien',              // ✅ Minimax: Kaffee-Deals Wien
-  // NOTE: #wien/#vienna bewusst NICHT dabei - zu viel Noise (Millionen Posts)
+  // === TIER 3: Wien-Food (was kleine Läden wirklich nutzen) ===
+  'dönerwien',               // ✅ bestätigt
+  'kebapwien',               // ✅ bestätigt
+  'kebabwien',               // ✅ Alternative Schreibweise!
+  'döner',                   // ✅ Minimax: "sehr aktiv"
+  'kebap',                   // ✅ bestätigt
+  'kaffeewien',              // ✅ Kaffee-Deals Wien
+  'pizzawien',               // ✅ Pizza-Shops Eröffnungen
+  'streetfoodwien',          // ✅ Kleine Läden nutzen das
+  'wienessen',               // ✅ Wien Food allgemein
+  // === TIER 4: Türkisch (Wien-Kebab-Szene) ===
+  'açılış',                  // = Neueröffnung auf Türkisch
 ];
 
 // ============================================
@@ -116,7 +119,7 @@ const WIEN_TRUSTED_ACCOUNTS = new Set([
   'foodiewien', 'foodiliciousvienna', 'hungrygirlsvienna',
   'tastyfood.vienna', 'fabfoodvienna', 'vorteilsclub.wien',
   '1000thingsinvienna', 'stadtbekannt.at', 'wienmuseum',
-  'vaborviennaopenair',
+  'preisjaeger.at', 'vaborviennaopenair',
 ]);
 
 // ============================================
@@ -129,11 +132,21 @@ const GRATIS_KEYWORDS = [
   'wir laden ein', 'einladung', 'wir spendieren', 'spendieren',
   'geht auf uns', 'on the house',
   '0€', '0 €', 'null euro', 'freier eintritt', 'eintritt frei',
-  // Gewinnspiele & Verlosungen (Minimax-verifiziert als aktive Kategorie)
+  'gratisprobe', 'produkttest',
+  // Englische Keywords
+  'free stuff', 'free sample',
+  // Türkische Keywords (Wien-Kebab-Szene!)
+  'bedava',                  // = gratis
+  'ücretsiz',                // = kostenlos
+  'ikram',                   // = "geht auf uns" / Einladung
+  'hediye',                  // = Geschenk
+];
+
+// Gewinnspiele sind KEINE Gratis-Deals - separat behandeln!
+// User will "gratis Döner" sehen, nicht "tagge 3 Freunde und gewinne vielleicht"
+const GEWINNSPIEL_KEYWORDS = [
   'gewinnspiel', 'verlosung', 'giveaway', 'zu gewinnen',
-  'gratisprobe', 'produkttest', 'mitmachen',
-  // Englische Keywords (Minimax)
-  'free stuff', 'free sample', 'win this',
+  'win this', 'wir verlosen', 'teilnahmebedingungen',
 ];
 
 // FAKE-GRATIS: Klingt gratis, aber man muss was kaufen!
@@ -168,9 +181,12 @@ const AKTION_KEYWORDS = [
   'halber preis', 'hälfte', 'half price',
   'happy hour', 'mittagsmenü', 'lunch deal', 'lunch special',
   'eröffnungsangebot', 'neueröffnung',
-  // Minimax-verifiziert
   'aktion', 'nur heute', 'nur solange', 'begrenzt',
-  'schnäppchen', 'deal', 'vorrat reicht',
+  'schnäppchen', 'vorrat reicht',
+  // Türkische Keywords (Wien-Kebab-Szene!)
+  'açılış',                  // = Neueröffnung
+  'kampanya',                // = Aktion/Kampagne
+  'indirim',                 // = Rabatt
 ];
 
 const FOOD_KEYWORDS = [
@@ -192,6 +208,10 @@ const FOOD_KEYWORDS = [
   'margherita', 'marinara', 'calzone', 'focaccia',
   'hummus', 'shawarma', 'poke', 'açai', 'acai',
   'bagel', 'pretzel', 'brezel',
+  // Türkische Food-Keywords (Wien-Kebab-Szene!)
+  'lahmacun', 'pide', 'dürüm', 'adana', 'iskender',
+  'çorba', 'börek', 'baklava', 'künefe', 'lokma',
+  'tantuni', 'köfte', 'kofte', 'simit', 'çay',
 ];
 
 const NON_FOOD_KEYWORDS = [
@@ -241,6 +261,9 @@ const SPAM_KEYWORDS = [
   // Engagement-Bait (die nervigen "tagge 3 Freunde" Posts)
   'tagge 3', 'tag 3', 'markiere 3', 'tagge deine',
   'markiere deine', 'tag your', 'tag a friend',
+  'markiere einen freund', 'tagge einen freund',
+  'kommentiere mit', 'like & kommentiere',
+  'folge uns und', 'follow und tag',
   // MLM/Scam
   'dm for', 'dm für', 'passive income', 'network marketing',
   'mlm', 'crypto', 'nft', 'invest', 'abnehmen', 'diät', 'weight loss',
@@ -248,9 +271,6 @@ const SPAM_KEYWORDS = [
   'onlyfans', 'link in bio kaufen', 'shop now', 'swipe up',
   'affiliate', 'provision', 'nebenjob', 'homeoffice job',
   'dm me', 'dm uns', 'schreib uns eine dm',
-  // NOTE: gewinnspiel, giveaway, verlosung sind KEINE Spam-Keywords mehr!
-  // Sie werden als eigene Hashtags gescraped.
-  // Spam-Gewinnspiele werden durch "tagge 3" etc. oben gefiltert.
 ];
 
 const EXPIRED_KEYWORDS = [
@@ -260,13 +280,58 @@ const EXPIRED_KEYWORDS = [
 ];
 
 // ============================================
+// IMAGE TEXT EXTRACTION (Instagram Alt-Text)
+// ============================================
+// Instagram generiert automatisch Alt-Text mit Bildbeschreibung.
+// Wenn Text auf dem Bild steht, enthält alt: "text that says '...'"
+// Das nutzen wir als kostenloses OCR - besser als Tesseract!
+
+function extractImageText(post) {
+  const alt = post.alt || post.accessibilityCaption || '';
+  if (!alt) return '';
+
+  // Instagram-Format: "May be an image of text that says 'GRATIS DÖNER zur Eröffnung!'"
+  // Auch: "text that says '...'" oder "text that says \"...\""
+  const textMatches = [];
+
+  // Pattern 1: text that says '...'
+  const singleQuote = alt.match(/text that says\s*['']([^'']+)['']/gi);
+  if (singleQuote) {
+    singleQuote.forEach(m => {
+      const inner = m.match(/['']([^'']+)['']/);
+      if (inner) textMatches.push(inner[1]);
+    });
+  }
+
+  // Pattern 2: text that says "..."
+  const doubleQuote = alt.match(/text that says\s*[""]([^""]+)[""][^""]*/gi);
+  if (doubleQuote) {
+    doubleQuote.forEach(m => {
+      const inner = m.match(/[""]([^""]+)[""]/);
+      if (inner) textMatches.push(inner[1]);
+    });
+  }
+
+  // Pattern 3: Sometimes without quotes, just "text that says XYZ"
+  if (textMatches.length === 0) {
+    const noQuote = alt.match(/text that says\s+([^.,]+)/i);
+    if (noQuote) textMatches.push(noQuote[1]);
+  }
+
+  return textMatches.join(' ').trim();
+}
+
+// ============================================
 // DEAL VALIDIERUNG (Streng!)
 // ============================================
 
 function validateDeal(post) {
   const caption = (post.caption || '').toLowerCase();
   const location = (post.locationName || '').toLowerCase();
-  const allText = caption + ' ' + location;
+  const imageText = extractImageText(post).toLowerCase();
+  // Combine caption + image text for keyword matching
+  const searchText = imageText ? caption + ' ' + imageText : caption;
+  const allText = searchText + ' ' + location;
 
   if (SPAM_KEYWORDS.some(k => matchesKeyword(caption, k)))
     return { valid: false, reason: 'spam' };
@@ -284,31 +349,37 @@ function validateDeal(post) {
       return { valid: false, reason: 'too_old' };
   }
 
-  if (caption.length < 30)
+  if (caption.length < 30 && !imageText)
     return { valid: false, reason: 'too_short' };
 
-  // CHECK 1: Deal-Typ
-  const gratisMatches = matchKeywords(caption, GRATIS_KEYWORDS);
-  const preisMatches = matchKeywords(caption, PREIS_KEYWORDS);
-  const aktionMatches = matchKeywords(caption, AKTION_KEYWORDS);
+  // CHECK 1: Deal-Typ (suche in Caption UND Bildtext!)
+  const gratisMatches = matchKeywords(searchText, GRATIS_KEYWORDS);
+  const preisMatches = matchKeywords(searchText, PREIS_KEYWORDS);
+  const aktionMatches = matchKeywords(searchText, AKTION_KEYWORDS);
+  const gewinnspielMatches = matchKeywords(searchText, GEWINNSPIEL_KEYWORDS);
   const isGratis = gratisMatches.length > 0;
   const hasGoodPrice = preisMatches.length > 0;
   const hasAktion = aktionMatches.length > 0;
+  const isGewinnspiel = gewinnspielMatches.length > 0;
+
+  // Track ob Deal nur durch Bildtext gefunden wurde
+  const captionOnly = matchKeywords(caption, [...GRATIS_KEYWORDS, ...PREIS_KEYWORDS, ...AKTION_KEYWORDS, ...GEWINNSPIEL_KEYWORDS]);
+  const foundViaImageText = captionOnly.length === 0 && (isGratis || hasGoodPrice || hasAktion || isGewinnspiel);
 
   // ⚠️ FAKE-GRATIS CHECK: "gratis dazu", "gratis bei Kauf" = NICHT echt gratis!
-  const fakeGratisMatches = matchKeywords(caption, FAKE_GRATIS_KEYWORDS);
+  const fakeGratisMatches = matchKeywords(searchText, FAKE_GRATIS_KEYWORDS);
   const isFakeGratis = fakeGratisMatches.length > 0;
 
   // Wenn "gratis" nur fake-gratis ist, downgrade zu Aktion
-  const isTrulyGratis = isGratis && !isFakeGratis;
+  const isTrulyGratis = isGratis && !isFakeGratis && !isGewinnspiel; // Gewinnspiel ≠ Gratis!
   const isConditionalGratis = isGratis && isFakeGratis;
 
-  if (!isGratis && !hasGoodPrice && !hasAktion)
+  if (!isGratis && !hasGoodPrice && !hasAktion && !isGewinnspiel)
     return { valid: false, reason: 'no_deal_type' };
 
-  // CHECK 2: Produkt
-  const foodMatches = matchKeywords(caption, FOOD_KEYWORDS);
-  const nonFoodMatches = matchKeywords(caption, NON_FOOD_KEYWORDS);
+  // CHECK 2: Produkt (suche auch in Bildtext!)
+  const foodMatches = matchKeywords(searchText, FOOD_KEYWORDS);
+  const nonFoodMatches = matchKeywords(searchText, NON_FOOD_KEYWORDS);
   const hasFood = foodMatches.length > 0;
   const hasNonFood = nonFoodMatches.length > 0;
 
@@ -329,6 +400,7 @@ function validateDeal(post) {
   else if (isConditionalGratis) score += 15; // "Gratis dazu" = nur ein Rabatt
   else if (hasGoodPrice) score += 20;
   else if (hasAktion) score += 18;
+  else if (isGewinnspiel) score += 10;      // Gewinnspiel = niedrigster Deal-Score (Lotterie, nicht sicher)
   if (gratisMatches.length + preisMatches.length + aktionMatches.length >= 2) score += 5;
 
   if (hasFood) score += 15;
@@ -345,17 +417,29 @@ function validateDeal(post) {
   else if (likes > 50) score += 8;
   else if (likes > 20) score += 5;
 
-  if (caption.match(/\d{4}\s*wien/i)) score += 5;
-  if (caption.match(/\d{1,2}[.:]\d{2}\s*(uhr|h\b)/i)) score += 5;
+  if (searchText.match(/\d{4}\s*wien/i)) score += 5;
+  if (searchText.match(/\d{1,2}[.:]\d{2}\s*(uhr|h\b)/i)) score += 5;
+
+  // 🆕 FRESHNESS BONUS - Deals von heute/gestern sind wertvoller!
+  if (post.timestamp) {
+    const hoursAgo = (Date.now() - new Date(post.timestamp).getTime()) / (1000 * 60 * 60);
+    if (hoursAgo < 12) score += 15;        // Unter 12h = super frisch
+    else if (hoursAgo < 24) score += 12;    // Heute
+    else if (hoursAgo < 48) score += 8;     // Gestern
+    else if (hoursAgo < 72) score += 4;     // 2-3 Tage
+    // Älter = kein Bonus
+  }
 
   const textWithoutHashtags = caption.replace(/#\w+/g, '').trim();
-  if (textWithoutHashtags.length < 40) score -= 15;
+  if (textWithoutHashtags.length < 40 && !imageText) score -= 15;
 
   return {
     valid: score >= CONFIG.minScore,
     review: score >= CONFIG.reviewMinScore && score < CONFIG.minScore,
-    score, isGratis: isTrulyGratis, isConditionalGratis, hasGoodPrice, hasAktion, hasFood, hasNonFood,
-    foodMatches, nonFoodMatches,
+    score, isGratis: isTrulyGratis, isConditionalGratis, isGewinnspiel,
+    hasGoodPrice, hasAktion, hasFood, hasNonFood,
+    foodMatches, nonFoodMatches, foundViaImageText,
+    imageText: imageText || null,
     reason: score >= CONFIG.minScore ? 'approved' : (score >= CONFIG.reviewMinScore ? 'review' : 'low_score'),
   };
 }
@@ -415,7 +499,8 @@ function findBestProduct(lower) {
 
 function generateTitle(post, validation) {
   const caption = post.caption || '';
-  const lower = caption.toLowerCase();
+  const imageText = extractImageText(post).toLowerCase();
+  const lower = caption.toLowerCase() + (imageText ? ' ' + imageText : '');
   const product = findBestProduct(lower);
 
   // ECHT GRATIS - bekommt "GRATIS" Prefix
@@ -438,6 +523,11 @@ function generateTitle(post, validation) {
   // FAKE GRATIS - "Zugabe bei Kauf", nicht "GRATIS"
   if (validation.isConditionalGratis) {
     return `${product} gratis dazu (bei Kauf)`;
+  }
+
+  // GEWINNSPIEL - klar als Verlosung kennzeichnen
+  if (validation.isGewinnspiel) {
+    return `🎰 ${product} zu gewinnen (Gewinnspiel)`;
   }
 
   if (validation.hasAktion) {
@@ -493,8 +583,15 @@ function generateDescription(post, validation, title) {
   const caption = post.caption || '';
   const brand = extractBrand(post);
   const location = post.locationName || '';
+  const imageText = extractImageText(post);
 
-  let clean = caption.replace(/#\w+/g, '').replace(/@\w+/g, '').replace(/\n+/g, '. ').replace(/\s+/g, ' ').trim();
+  // Combine caption and image text for finding the best description
+  let textSource = caption;
+  if (imageText && validation.foundViaImageText) {
+    textSource = imageText + '. ' + caption;
+  }
+
+  let clean = textSource.replace(/#\w+/g, '').replace(/@\w+/g, '').replace(/\n+/g, '. ').replace(/\s+/g, ' ').trim();
   const sentences = clean.split(/[.!?\n]/).map(s => s.trim()).filter(s => s.length > 15 && s.length < 200);
 
   let bestSentence = '';
@@ -613,18 +710,19 @@ function createDeal(post, validation) {
   return {
     id: `ig-${Date.now()}-${Math.random().toString(36).substring(2, 8)}`,
     brand, logo, title, description,
-    type: validation.isGratis ? 'gratis' : (validation.isConditionalGratis ? 'rabatt' : 'rabatt'),
+    type: validation.isGratis ? 'gratis' : (validation.isGewinnspiel ? 'gewinnspiel' : (validation.isConditionalGratis ? 'rabatt' : 'rabatt')),
     category,
     source: `Instagram @${post.ownerUsername || 'unknown'}`,
     url: post.url || `https://www.instagram.com/p/${post.shortCode || ''}`,
-    expires: 'Begrenzt',
+    expires: validation.isGewinnspiel ? 'Teilnahme nötig' : 'Begrenzt',
     distance: location,
     hot: validation.isGratis && likes > 50,
     isNew: true, isInstagramDeal: true,
-    priority: validation.isGratis ? 2 : 3,
+    priority: validation.isGratis ? 2 : (validation.isGewinnspiel ? 4 : 3),
     votes: Math.min(Math.round(likes / 10), 50),
     qualityScore: validation.score,
     pubDate: post.timestamp || new Date().toISOString(),
+    _foundViaImageText: validation.foundViaImageText || false,
   };
 }
 
@@ -636,16 +734,14 @@ function isDuplicate(deal, existingDeals) {
   const normalize = s => s.toLowerCase().replace(/[^a-zäöüß0-9]/g, '').substring(0, 20);
 
   for (const existing of existingDeals) {
-    // Gleicher IG-User
-    if (existing.source && deal.source && existing.source === deal.source && existing.isInstagramDeal)
+    // Gleiche URL = definitiv Duplikat
+    if (existing.url && deal.url && existing.url === deal.url)
       return true;
-    // Gleicher Brand bei IG-Deals
-    if (existing.isInstagramDeal && existing.brand.toLowerCase() === deal.brand.toLowerCase())
+    // Gleicher IG-User + ähnlicher Titel (selber Post in anderem Format)
+    if (existing.isInstagramDeal && existing.source === deal.source &&
+        normalize(existing.title) === normalize(deal.title))
       return true;
-    // Titel-Ähnlichkeit
-    if (normalize(existing.title) === normalize(deal.title))
-      return true;
-    // Brand schon in Base-Deals
+    // Brand schon in Base-Deals (handkuratiert > scraped)
     if (!existing.isInstagramDeal && existing.brand.toLowerCase() === deal.brand.toLowerCase())
       return true;
   }
@@ -836,8 +932,9 @@ async function main() {
       brandCount[brandKey] = (brandCount[brandKey] || 0) + 1;
       
       approvedDeals.push(deal);
-      const freeTag = result.isGratis ? '🆓 ECHT GRATIS' : (result.isConditionalGratis ? '⚠️ Gratis bei Kauf' : '💰 Rabatt');
-      console.log(`   ✅ ${deal.logo} ${deal.title} [Score: ${result.score}] ${freeTag}`);
+      const freeTag = result.isGratis ? '🆓 ECHT GRATIS' : (result.isGewinnspiel ? '🎰 GEWINNSPIEL' : (result.isConditionalGratis ? '⚠️ Gratis bei Kauf' : '💰 Rabatt'));
+      const imgTag = result.foundViaImageText ? ' 🖼️ VIA BILDTEXT' : '';
+      console.log(`   ✅ ${deal.logo} ${deal.title} [Score: ${result.score}] ${freeTag}${imgTag}`);
       console.log(`      → ${deal.brand} | ${deal.distance}`);
     } else if (result.review) {
       reviewDeals.push(createDeal(post, result));
@@ -847,10 +944,12 @@ async function main() {
   }
 
   const totalRejected = Object.values(rejected).reduce((a, b) => a + b, 0);
+  const imageTextDeals = approvedDeals.filter(d => d._foundViaImageText).length;
   console.log('\n📊 ERGEBNIS:');
   console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
   console.log(`   📥 Posts:       ${posts.length}`);
   console.log(`   ✅ Approved:    ${approvedDeals.length}`);
+  if (imageTextDeals > 0) console.log(`   🖼️ Via Bildtext: ${imageTextDeals}`);
   console.log(`   📝 Review:      ${reviewDeals.length}`);
   console.log(`   ❌ Abgelehnt:   ${totalRejected}`);
   for (const [reason, count] of Object.entries(rejected).sort((a, b) => b[1] - a[1])) {
@@ -886,12 +985,19 @@ async function main() {
         }
       }
 
-      // Sortieren
+      // Sortieren: Priority > Gratis > Frisch > Hot
       existing.deals.sort((a, b) => {
         if ((a.priority || 99) !== (b.priority || 99)) return (a.priority || 99) - (b.priority || 99);
+        if (a.type === 'gratis' && b.type !== 'gratis') return -1;
+        if (a.type !== 'gratis' && b.type === 'gratis') return 1;
+        if (a.type === 'gewinnspiel' && b.type !== 'gewinnspiel') return 1; // Gewinnspiele nach hinten
+        if (a.type !== 'gewinnspiel' && b.type === 'gewinnspiel') return -1;
+        // Neuere IG-Deals zuerst
+        if (a.isInstagramDeal && b.isInstagramDeal) {
+          return new Date(b.pubDate || 0) - new Date(a.pubDate || 0);
+        }
         if (a.hot && !b.hot) return -1;
         if (!a.hot && b.hot) return 1;
-        if (a.type === 'gratis' && b.type !== 'gratis') return -1;
         return 0;
       });
 

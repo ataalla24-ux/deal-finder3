@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-12T18:22:23.024Z",
-  "totalDeals": 93,
+  "lastUpdated": "2026-05-12T20:15:36.358Z",
+  "totalDeals": 96,
   "deals": [
     {
       "id": "top-1",
@@ -148,7 +148,7 @@
       "priority": 2
     },
     {
-      "id": "html-MeinBezirk-1778610091841-2wdcc",
+      "id": "html-MeinBezirk-1778616857678-3bo2y",
       "brand": "MeinBezirk",
       "logo": "📰",
       "title": "🎁 Gratis Deal via MeinBezirk",
@@ -162,10 +162,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-05-12T18:21:31.841Z"
+      "pubDate": "2026-05-12T20:14:17.678Z"
     },
     {
-      "id": "html-Kurier-1778610091974-0rqzm",
+      "id": "html-Kurier-1778616860198-t75ge",
       "brand": "Kurier",
       "logo": "📰",
       "title": "🎁 Gratis Deal via Kurier",
@@ -179,10 +179,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-05-12T18:21:31.974Z"
+      "pubDate": "2026-05-12T20:14:20.198Z"
     },
     {
-      "id": "html-Krone-1778610093208-en0nh",
+      "id": "html-Krone-1778616861608-m3vrn",
       "brand": "Krone",
       "logo": "📰",
       "title": "🎁 Gratis Deal via Krone",
@@ -196,10 +196,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-05-12T18:21:33.208Z"
+      "pubDate": "2026-05-12T20:14:21.608Z"
     },
     {
-      "id": "html-Biorama-1778610099177-zz2w0",
+      "id": "html-Biorama-1778616871588-u8qfr",
       "brand": "Biorama",
       "logo": "🌿",
       "title": "🎁 Gratis Deal via Biorama",
@@ -213,10 +213,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-05-12T18:21:39.177Z"
+      "pubDate": "2026-05-12T20:14:31.588Z"
     },
     {
-      "id": "html-PENNY-1778610104658-xhfg2",
+      "id": "html-PENNY-1778616876556-i3icx",
       "brand": "PENNY",
       "logo": "🛒",
       "title": "🎁 Gratis Deal via PENNY",
@@ -230,10 +230,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-05-12T18:21:44.658Z"
+      "pubDate": "2026-05-12T20:14:36.556Z"
     },
     {
-      "id": "html-Nah&Frisch-1778610108715-v2dbm",
+      "id": "html-Nah&Frisch-1778616881509-38fpp",
       "brand": "Nah&Frisch",
       "logo": "🛒",
       "title": "🎁 Gratis Deal via Nah&Frisch",
@@ -247,10 +247,27 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-05-12T18:21:48.715Z"
+      "pubDate": "2026-05-12T20:14:41.509Z"
     },
     {
-      "id": "html-Electronic4you-1778610129725-lcmhg",
+      "id": "html-Starbucks-1778616901611-dymv4",
+      "brand": "Starbucks",
+      "logo": "☕",
+      "title": "🎁 Gratis Deal via Starbucks",
+      "description": "freebies ☕🧁🥙🍵\" src=\"https://www.starbucks.at/sites/starbucks-at-pwa/files/styles/rich_content_carousel_c",
+      "type": "gratis",
+      "badge": "gratis",
+      "category": "kaffee",
+      "source": "Starbucks",
+      "url": "https://www.starbucks.at/",
+      "expires": "Begrenzt",
+      "distance": "Wien",
+      "hot": true,
+      "isNew": true,
+      "pubDate": "2026-05-12T20:15:01.611Z"
+    },
+    {
+      "id": "html-Electronic4you-1778616919639-hjwd9",
       "brand": "Electronic4you",
       "logo": "📱",
       "title": "🎁 Gratis Deal via Electronic4you",
@@ -264,10 +281,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-05-12T18:22:09.725Z"
+      "pubDate": "2026-05-12T20:15:19.639Z"
     },
     {
-      "id": "html-Samsung-1778610130564-13uvl",
+      "id": "html-Samsung-1778616921308-idrjd",
       "brand": "Samsung",
       "logo": "📱",
       "title": "🎁 Gratis Deal via Samsung",
@@ -281,10 +298,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-05-12T18:22:10.564Z"
+      "pubDate": "2026-05-12T20:15:21.308Z"
     },
     {
-      "id": "rss-1778610135973-wcjbsttp5",
+      "id": "rss-1778616928091-p3lbyp6v9",
       "brand": "Wien",
       "logo": "📰",
       "title": "Wien: Schon 6.500 Anmeldungen für gratis psychologische Therapie - Kle",
@@ -301,7 +318,7 @@
       "pubDate": "2026-05-11T09:12:00.000Z"
     },
     {
-      "id": "rss-1778610135973-4v15olr8k",
+      "id": "rss-1778616928092-dbvlzbuyi",
       "brand": "Schon",
       "logo": "📰",
       "title": "Schon 6.500 Anmeldungen für gratis psychologische Therapie - NÖN.at - ",
@@ -318,7 +335,7 @@
       "pubDate": "2026-05-11T10:19:00.000Z"
     },
     {
-      "id": "rss-1778610135973-5zh8xd7dj",
+      "id": "rss-1778616928092-qcpswp4s4",
       "brand": "Volxkino",
       "logo": "📰",
       "title": "Volxkino in Wien: Hier kannst du im Sommer kostenlos ins Open-Air-Kino",
@@ -335,7 +352,7 @@
       "pubDate": "2026-05-01T07:00:00.000Z"
     },
     {
-      "id": "rss-1778610135974-0jz2alx1s",
+      "id": "rss-1778616928092-ela1mfcu2",
       "brand": "Balkan-Spezial",
       "logo": "📰",
       "title": "Balkan-Spezial in Wien! Hier gibt es Gratis-Cevapcici. - Heute",
@@ -352,7 +369,7 @@
       "pubDate": "2026-05-07T18:40:13.000Z"
     },
     {
-      "id": "html-TikTok-1778610140879-0fhbr",
+      "id": "html-TikTok-1778616933456-f03f1",
       "brand": "TikTok",
       "logo": "🎵",
       "title": "🎁 Gratis Deal via TikTok",
@@ -366,7 +383,7 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-05-12T18:22:20.879Z"
+      "pubDate": "2026-05-12T20:15:33.456Z"
     },
     {
       "id": "kaffee-2",
@@ -579,7 +596,7 @@
       "hot": false
     },
     {
-      "id": "rss-1778610136562-ngixghrmc",
+      "id": "rss-1778616928773-sdhcmvnfx",
       "brand": "Neueröffnungen",
       "logo": "🆕",
       "title": "Neueröffnungen in Wien Mai 2026 - Goodnight.at",
@@ -596,41 +613,7 @@
       "pubDate": "2026-04-29T04:37:35.000Z"
     },
     {
-      "id": "rss-1778610138139-6a5dot9lj",
-      "brand": "Eröffnung",
-      "logo": "🎉",
-      "title": "Eröffnung: Center for Translational Medicine und Eric Kandel Institute",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNM0VBS2lqbVBxTjYyQmRRUjZvZWRzRkN4VTFBU25WRkRRclZlUjRw...",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "wien",
-      "source": "Google News Opening Wien",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNM0VBS2lqbVBxTjYyQmRRUjZvZWRzRkN4VTFBU25WRkRRclZlUjRwSmxNWm5TRjNzaXVTSDdpN2FTbGlvdkdnaDJZaHVzMUVVdElvbjN6VHFzQkRsaUs0NEdvTWVEYXlFM2NFSkdNYV9pN0IyRUdrWk5FSDhPNVJuVzdRak9lQ2RlT2M1akUyUjZUdmNISEIwUW9hcERMWkxETjBQanU5bUhVYWh1bmVoYmpRdjlacUdkWTY5VjVhVG5obEhQQllHcXZMMEZIMnVyeFVpRzRnZkpldTRiY2x4WXJyQWRBaHQxZmdDTQ?oc=5",
-      "expires": "Neueröffnung",
-      "distance": "Wien",
-      "hot": true,
-      "isNew": true,
-      "pubDate": "2026-05-07T07:54:16.000Z"
-    },
-    {
-      "id": "rss-1778610138139-ccfyqqt9g",
-      "brand": "Eröffnung",
-      "logo": "🎉",
-      "title": "Eröffnung des ESC 2026 in Wien: Sarah Engels – Wow-Auftritt auf dem Tü",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWUM1MWk4MzE0YXRqaUZnYzlaNFdrYzN4YnZYNDQ3clFjNzVVenJu...",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "wien",
-      "source": "Google News Opening Wien",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWUM1MWk4MzE0YXRqaUZnYzlaNFdrYzN4YnZYNDQ3clFjNzVVenJuSG5CSjVZUmVXUEItLTROMWZGV3hLZWJlcEdqVkx1LXIzaXhaczA1MndkWU94NTBTTTBYU29NYjZwXzExaHNWcW4zZ0NBMXZFa3h3Wi15cFVtQ1R4LTZTdDBqbnRmTklWM0h1aDhCU28tTmJfUGVTSDZxOU9sQk5nREtqN21OSEJIbkZ0NXA5d01YZG5vcWdmT0hPT29MRmNDdV83bW0xcHRWc3Z0M09SUjNoYm5GN2NaanN6dUNsenFjeE5qTWlOYlhwRGMtSUJJYXdNTDlHT1FMdFQtT1FtU1dMWE0?oc=5",
-      "expires": "Neueröffnung",
-      "distance": "Wien",
-      "hot": true,
-      "isNew": true,
-      "pubDate": "2026-05-11T05:45:18.000Z"
-    },
-    {
-      "id": "rss-1778610138139-mfdbc0ey5",
+      "id": "rss-1778616930336-gx1n4bq5f",
       "brand": "Eurovision",
       "logo": "🎉",
       "title": "Eurovision Song Contest 2026: Start der ESC-Woche am 10. Mai mit der „",
@@ -647,7 +630,41 @@
       "pubDate": "2026-05-10T07:00:00.000Z"
     },
     {
-      "id": "rss-1778610138139-45o8y5eld",
+      "id": "rss-1778616930337-ya4hunncx",
+      "brand": "Eröffnung",
+      "logo": "🎉",
+      "title": "Eröffnung: Center for Translational Medicine und Eric Kandel Institute",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNM0VBS2lqbVBxTjYyQmRRUjZvZWRzRkN4VTFBU25WRkRRclZlUjRw...",
+      "type": "rabatt",
+      "badge": "limited",
+      "category": "wien",
+      "source": "Google News Opening Wien",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNM0VBS2lqbVBxTjYyQmRRUjZvZWRzRkN4VTFBU25WRkRRclZlUjRwSmxNWm5TRjNzaXVTSDdpN2FTbGlvdkdnaDJZaHVzMUVVdElvbjN6VHFzQkRsaUs0NEdvTWVEYXlFM2NFSkdNYV9pN0IyRUdrWk5FSDhPNVJuVzdRak9lQ2RlT2M1akUyUjZUdmNISEIwUW9hcERMWkxETjBQanU5bUhVYWh1bmVoYmpRdjlacUdkWTY5VjVhVG5obEhQQllHcXZMMEZIMnVyeFVpRzRnZkpldTRiY2x4WXJyQWRBaHQxZmdDTQ?oc=5",
+      "expires": "Neueröffnung",
+      "distance": "Wien",
+      "hot": true,
+      "isNew": true,
+      "pubDate": "2026-05-07T07:54:16.000Z"
+    },
+    {
+      "id": "rss-1778616930337-13bm2z1p7",
+      "brand": "Eröffnung",
+      "logo": "🎉",
+      "title": "Eröffnung des ESC 2026 in Wien: Sarah Engels – Wow-Auftritt auf dem Tü",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWUM1MWk4MzE0YXRqaUZnYzlaNFdrYzN4YnZYNDQ3clFjNzVVenJu...",
+      "type": "rabatt",
+      "badge": "limited",
+      "category": "wien",
+      "source": "Google News Opening Wien",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWUM1MWk4MzE0YXRqaUZnYzlaNFdrYzN4YnZYNDQ3clFjNzVVenJuSG5CSjVZUmVXUEItLTROMWZGV3hLZWJlcEdqVkx1LXIzaXhaczA1MndkWU94NTBTTTBYU29NYjZwXzExaHNWcW4zZ0NBMXZFa3h3Wi15cFVtQ1R4LTZTdDBqbnRmTklWM0h1aDhCU28tTmJfUGVTSDZxOU9sQk5nREtqN21OSEJIbkZ0NXA5d01YZG5vcWdmT0hPT29MRmNDdV83bW0xcHRWc3Z0M09SUjNoYm5GN2NaanN6dUNsenFjeE5qTWlOYlhwRGMtSUJJYXdNTDlHT1FMdFQtT1FtU1dMWE0?oc=5",
+      "expires": "Neueröffnung",
+      "distance": "Wien",
+      "hot": true,
+      "isNew": true,
+      "pubDate": "2026-05-11T05:45:18.000Z"
+    },
+    {
+      "id": "rss-1778616930337-oeyfnysi0",
       "brand": "ESC-Eröffnung",
       "logo": "🎉",
       "title": "ESC-Eröffnung: Viel Haar und wenig Stoff - wien.ORF.at",
@@ -664,7 +681,24 @@
       "pubDate": "2026-05-10T20:42:28.000Z"
     },
     {
-      "id": "rss-1778610138140-g3snox322",
+      "id": "rss-1778616930337-en3ufsnlm",
+      "brand": "Opening",
+      "logo": "🎉",
+      "title": "Opening Performance: Vicky Leandros - ORF ON",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNQU5IWlZSTmdBOHNocE9mN21yc1pYUGI2V0ktc0xrNW96Ujl2TTJ1...",
+      "type": "rabatt",
+      "badge": "limited",
+      "category": "technik",
+      "source": "Google News Opening Wien",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQU5IWlZSTmdBOHNocE9mN21yc1pYUGI2V0ktc0xrNW96Ujl2TTJ1VUJ1cHJ4MTVqS3k0OWZrZWVycEEyUGJJVTVyOXF1aDF3dzJPVmdlUWktNmlMZWEzbUNIR29JSTI0VTdiR1VaSE41N2h0NExjNHhiVVlRLVREUGVB?oc=5",
+      "expires": "Neueröffnung",
+      "distance": "Wien",
+      "hot": true,
+      "isNew": true,
+      "pubDate": "2026-05-12T19:06:32.000Z"
+    },
+    {
+      "id": "rss-1778616930337-9oc0vcgoc",
       "brand": "Eröffnung",
       "logo": "🎉",
       "title": "Eröffnung der Wiener Festwochen 2026 - ORF TV-Programm",
@@ -681,7 +715,7 @@
       "pubDate": "2026-05-02T05:54:37.000Z"
     },
     {
-      "id": "rss-1778610138140-80tu98nie",
+      "id": "rss-1778616930337-k6h48jq6m",
       "brand": "ESC-Eröffnung",
       "logo": "🎉",
       "title": "ESC-Eröffnung mit Boy George, Delta Goodrem, Veronica Fusaro - Blick",
@@ -698,7 +732,7 @@
       "pubDate": "2026-05-10T22:54:10.000Z"
     },
     {
-      "id": "rss-1778610138141-awlf9ykir",
+      "id": "rss-1778616930338-rvvjhs2hr",
       "brand": "Google News",
       "logo": "🎉",
       "title": "06.05.2026, Opening Solutions Day Wien - Assa Abloy",
@@ -715,7 +749,7 @@
       "pubDate": "2026-05-06T06:35:02.000Z"
     },
     {
-      "id": "rss-1778610138141-rhfinf4sp",
+      "id": "rss-1778616930338-y3hevrsh3",
       "brand": "Ein",
       "logo": "🎉",
       "title": "Ein türkisfarbener Auftakt: Die Eröffnung des Eurovision Song Contest ",
@@ -987,7 +1021,7 @@
       "hot": true
     },
     {
-      "id": "html-Vienna.at-1778610089741-g2om4",
+      "id": "html-Vienna.at-1778616855222-uirde",
       "brand": "Vienna.at",
       "logo": "📰",
       "title": "💰 Rabatt via Vienna.at",
@@ -1001,10 +1035,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-05-12T18:21:29.741Z"
+      "pubDate": "2026-05-12T20:14:15.222Z"
     },
     {
-      "id": "html-Kurier-1778610091975-jiwi5",
+      "id": "html-Kurier-1778616860199-ens6o",
       "brand": "Kurier",
       "logo": "📰",
       "title": "🆕 Neueröffnung via Kurier",
@@ -1018,10 +1052,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-05-12T18:21:31.975Z"
+      "pubDate": "2026-05-12T20:14:20.199Z"
     },
     {
-      "id": "html-Kleine-1778610094834-x6hae",
+      "id": "html-Kleine-1778616865302-4ipcs",
       "brand": "Kleine",
       "logo": "📰",
       "title": "💰 Rabatt via Kleine",
@@ -1035,10 +1069,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-05-12T18:21:34.834Z"
+      "pubDate": "2026-05-12T20:14:25.302Z"
     },
     {
-      "id": "html-Falter-1778610096734-gluw4",
+      "id": "html-Falter-1778616867905-q8piv",
       "brand": "Falter",
       "logo": "📰",
       "title": "🆕 Neueröffnung via Falter",
@@ -1052,10 +1086,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-05-12T18:21:36.734Z"
+      "pubDate": "2026-05-12T20:14:27.905Z"
     },
     {
-      "id": "html-Falter-1778610096978-fd5yf",
+      "id": "html-Falter-1778616868206-x8o9j",
       "brand": "Falter",
       "logo": "🎉",
       "title": "💰 Rabatt via Falter",
@@ -1069,27 +1103,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-05-12T18:21:36.978Z"
+      "pubDate": "2026-05-12T20:14:28.206Z"
     },
     {
-      "id": "html-A-List-1778610100575-nhawf",
-      "brand": "A-List",
-      "logo": "⭐",
-      "title": "🆕 Neueröffnung via A-List",
-      "description": "Neueröffnungen und Insidertipps in deiner Inbox.",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "wien",
-      "source": "A-List",
-      "url": "https://www.a-list.at/",
-      "expires": "Begrenzt",
-      "distance": "Wien",
-      "hot": false,
-      "isNew": true,
-      "pubDate": "2026-05-12T18:21:40.575Z"
-    },
-    {
-      "id": "html-Wien isst-1778610102503-mgpfx",
+      "id": "html-Wien isst-1778616873900-n6r1i",
       "brand": "Wien isst",
       "logo": "🍴",
       "title": "🆕 Neueröffnung via Wien isst",
@@ -1103,10 +1120,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-05-12T18:21:42.503Z"
+      "pubDate": "2026-05-12T20:14:33.900Z"
     },
     {
-      "id": "html-Nah&Frisch-1778610108716-3amu8",
+      "id": "html-Nah&Frisch-1778616881509-3jqui",
       "brand": "Nah&Frisch",
       "logo": "🛒",
       "title": "🆕 Neueröffnung via Nah&Frisch",
@@ -1120,10 +1137,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-05-12T18:21:48.716Z"
+      "pubDate": "2026-05-12T20:14:41.509Z"
     },
     {
-      "id": "html-Five Guys-1778610116983-mioze",
+      "id": "html-Five Guys-1778616891416-znc4g",
       "brand": "Five Guys",
       "logo": "🍔",
       "title": "💰 Rabatt via Five Guys",
@@ -1137,10 +1154,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-05-12T18:21:56.983Z"
+      "pubDate": "2026-05-12T20:14:51.416Z"
     },
     {
-      "id": "html-Plachutta-1778610119983-ben2i",
+      "id": "html-Plachutta-1778616900331-ac3hx",
       "brand": "Plachutta",
       "logo": "🥘",
       "title": "💰 Rabatt via Plachutta",
@@ -1154,10 +1171,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-05-12T18:21:59.983Z"
+      "pubDate": "2026-05-12T20:15:00.331Z"
     },
     {
-      "id": "html-Trzesniewski-1778610120520-uv3zw",
+      "id": "html-Trzesniewski-1778616901040-1tpp4",
       "brand": "Trzesniewski",
       "logo": "🥪",
       "title": "🆕 Neueröffnung via Trzesniewski",
@@ -1171,10 +1188,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-05-12T18:22:00.520Z"
+      "pubDate": "2026-05-12T20:15:01.040Z"
     },
     {
-      "id": "html-Aida-1778610122757-kht5i",
+      "id": "html-Aida-1778616904411-xyhng",
       "brand": "Aida",
       "logo": "🎀",
       "title": "💰 Rabatt via Aida",
@@ -1188,10 +1205,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-05-12T18:22:02.757Z"
+      "pubDate": "2026-05-12T20:15:04.411Z"
     },
     {
-      "id": "html-Ströck-1778610125357-a8o3a",
+      "id": "html-Ströck-1778616907332-tmbwf",
       "brand": "Ströck",
       "logo": "🥐",
       "title": "🆕 Neueröffnung via Ströck",
@@ -1205,10 +1222,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-05-12T18:22:05.357Z"
+      "pubDate": "2026-05-12T20:15:07.332Z"
     },
     {
-      "id": "html-Ströck-1778610125358-z1gut",
+      "id": "html-Ströck-1778616907333-v17pz",
       "brand": "Ströck",
       "logo": "🥐",
       "title": "💰 Rabatt via Ströck",
@@ -1222,10 +1239,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-05-12T18:22:05.358Z"
+      "pubDate": "2026-05-12T20:15:07.333Z"
     },
     {
-      "id": "html-Samsung-1778610130565-bxy7a",
+      "id": "html-Samsung-1778616921309-b7h32",
       "brand": "Samsung",
       "logo": "📱",
       "title": "💰 Rabatt via Samsung",
@@ -1239,10 +1256,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-05-12T18:22:10.565Z"
+      "pubDate": "2026-05-12T20:15:21.309Z"
     },
     {
-      "id": "rss-1778610138759-egrma0inw",
+      "id": "rss-1778616930919-5z8ri8q85",
       "brand": "Schwerpunkt-Aktion",
       "logo": "💰",
       "title": "Schwerpunkt-Aktion – Neue Schutzzone in Wien: Erste Drogen-Festnahmen ",
@@ -1259,7 +1276,7 @@
       "pubDate": "2026-05-12T11:34:00.000Z"
     },
     {
-      "id": "rss-1778610138759-tpaglj3la",
+      "id": "rss-1778616930919-c9xza1zyq",
       "brand": "Störaktion",
       "logo": "💰",
       "title": "Störaktion bei Salzburger Festspielen: Aktivist in Wien verurteilt - s",
@@ -1276,7 +1293,7 @@
       "pubDate": "2026-05-12T14:00:00.000Z"
     },
     {
-      "id": "rss-1778610138759-3nwqr4bl5",
+      "id": "rss-1778616930919-rnjryu1xe",
       "brand": "SKY",
       "logo": "💰",
       "title": "SKY express: Griechenland-Rabatte ab Wien - TIP-Online",
@@ -1293,7 +1310,24 @@
       "pubDate": "2026-05-11T13:19:00.000Z"
     },
     {
-      "id": "rss-1778610138759-cqwiwo7bp",
+      "id": "rss-1778616930919-bza7rwj4f",
+      "brand": "Störaktion",
+      "logo": "💰",
+      "title": "Störaktion in Wien - Demonstranten übertönen Meinl-Reisinger und Ludwi",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE5aN0dnVFI3eFVXUEo4NUlHNDVXb1dJeU5Pdi1zX2lqekk5dmEybjJu...",
+      "type": "rabatt",
+      "badge": "limited",
+      "category": "wien",
+      "source": "Google News Aktion Wien",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5aN0dnVFI3eFVXUEo4NUlHNDVXb1dJeU5Pdi1zX2lqekk5dmEybjJuNWw4TmNaU3NCclBuTE9kSmozZw?oc=5",
+      "expires": "Begrenzt",
+      "distance": "Wien",
+      "hot": false,
+      "isNew": true,
+      "pubDate": "2026-05-09T16:47:00.000Z"
+    },
+    {
+      "id": "rss-1778616930919-cyv5zp3sd",
       "brand": "Neue",
       "logo": "💰",
       "title": "Neue Schutzzonen in Wien: Große Polizeiaktion gestartet - 5 Minuten",
@@ -1310,7 +1344,7 @@
       "pubDate": "2026-05-09T12:45:04.000Z"
     },
     {
-      "id": "rss-1778610138759-a992yb6h4",
+      "id": "rss-1778616930919-h6q9aygot",
       "brand": "Erste",
       "logo": "💰",
       "title": "Erste Polizei-Aktion nach neuem Alkoholverbot am Westbahnhof - Kurier",
@@ -1327,24 +1361,24 @@
       "pubDate": "2026-05-09T10:07:00.000Z"
     },
     {
-      "id": "rss-1778610138760-1pbnok0db",
-      "brand": "Charity",
+      "id": "rss-1778616930920-o5tmfygyd",
+      "brand": "Frühjahrsputz-Aktion",
       "logo": "💰",
-      "title": "Charity Aktion: Wiener Wohltäter durchquert Innsbruck - MeinBezirk.at",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOTUlKZmw0S3N6M0hGbFl5QklBUVdDX2hsYjVkdnRxZ1hBOWxwYUJo...",
+      "title": "Frühjahrsputz-Aktion: Meidlinger Bezirkschef Wilfried Zankl räumt am S",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQem9ObVY5ZS1pU1hIcnpOeEVlMGxxNmdhcGt5TnFBRmw3UFNOT2dY...",
       "type": "rabatt",
       "badge": "limited",
       "category": "wien",
       "source": "Google News Aktion Wien",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTUlKZmw0S3N6M0hGbFl5QklBUVdDX2hsYjVkdnRxZ1hBOWxwYUJoYUZVOU1jRGVpVGZRTXg2MEEzVmx6QWFveU1NMW9URFNiSGVaTXhHZnRzczlFal83S0JqalJCNGVNOTJlcVdFUkNtdUYyWFNhX0dOeDh3ZlhnbnBldU1aR0Q0cUpzNUgtZGlwX1lkZnJLXw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQem9ObVY5ZS1pU1hIcnpOeEVlMGxxNmdhcGt5TnFBRmw3UFNOT2dYU04zaUprZnp5UlBOWHUxT3d2eHNET0hzX0FSLUVUUXR5d2tmZ0ZGSmRlMzFIZ25oU2p1QXpkYmdDR2VTMEVEV3VwZXZEMmpNamZsZFpDQ2hvcUZQTUZQMmIySE1JN3pJQmJaU3NCYVl0cWxfbDY0ZkI2MHh6c0hlVEJhWUJRLWxSQlZoVjVRREk1?oc=5",
       "expires": "Begrenzt",
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-05-06T06:58:12.000Z"
+      "pubDate": "2026-05-08T10:42:21.000Z"
     },
     {
-      "id": "rss-1778610138760-8f4jaau4j",
+      "id": "rss-1778616930920-1vo8rxnvc",
       "brand": "Wien",
       "logo": "💰",
       "title": "Wien macht Ernst – E-Scooter-Aktion scharf: Roller mit 57 km/h ausgebr",
@@ -1361,7 +1395,7 @@
       "pubDate": "2026-05-06T11:28:00.000Z"
     },
     {
-      "id": "rss-1778610138760-0ibdjrwry",
+      "id": "rss-1778616930920-hprs85392",
       "brand": "Viele",
       "logo": "💰",
       "title": "Viele Strafen wegen Rabatten in Wien - wien.ORF.at",
@@ -1378,7 +1412,24 @@
       "pubDate": "2026-04-30T07:00:00.000Z"
     },
     {
-      "id": "html-TikTok-1778610140880-vawfn",
+      "id": "rss-1778616930920-y5921yuyx",
+      "brand": "Charity",
+      "logo": "💰",
+      "title": "Charity Aktion: Wiener Wohltäter durchquert Innsbruck - MeinBezirk.at",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOTUlKZmw0S3N6M0hGbFl5QklBUVdDX2hsYjVkdnRxZ1hBOWxwYUJo...",
+      "type": "rabatt",
+      "badge": "limited",
+      "category": "wien",
+      "source": "Google News Aktion Wien",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTUlKZmw0S3N6M0hGbFl5QklBUVdDX2hsYjVkdnRxZ1hBOWxwYUJoYUZVOU1jRGVpVGZRTXg2MEEzVmx6QWFveU1NMW9URFNiSGVaTXhHZnRzczlFal83S0JqalJCNGVNOTJlcVdFUkNtdUYyWFNhX0dOeDh3ZlhnbnBldU1aR0Q0cUpzNUgtZGlwX1lkZnJLXw?oc=5",
+      "expires": "Begrenzt",
+      "distance": "Wien",
+      "hot": false,
+      "isNew": true,
+      "pubDate": "2026-05-06T06:58:12.000Z"
+    },
+    {
+      "id": "html-TikTok-1778616933457-z1vfq",
       "brand": "TikTok",
       "logo": "🎵",
       "title": "💰 Rabatt via TikTok",
@@ -1392,7 +1443,7 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-05-12T18:22:20.880Z"
+      "pubDate": "2026-05-12T20:15:33.457Z"
     },
     {
       "id": "essen-3",

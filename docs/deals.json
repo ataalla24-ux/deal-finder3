@@ -1,415 +1,7 @@
 {
-  "lastUpdated": "2026-09-13T10:56:22.106Z",
-  "totalDeals": 111,
+  "lastUpdated": "2026-09-13T13:26:46.298Z",
+  "totalDeals": 84,
   "deals": [
-    {
-      "id": "fc-SPAR-1789296899974-q9e7s",
-      "brand": "SPAR",
-      "logo": "🛒",
-      "title": "- Aktionen & Flugblätter",
-      "description": "SPAR Angebote: - Aktionen & Flugblätter",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "supermarkt",
-      "source": "Firecrawl: SPAR Angebote",
-      "url": "https://www.spar.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:54:59.974Z"
-    },
-    {
-      "id": "fc-SPAR-1789296899975-fdh87",
-      "brand": "SPAR",
-      "logo": "🛒",
-      "title": "[Aktionen & Flugblätter\\\\",
-      "description": "SPAR Angebote: [Aktionen & Flugblätter\\\\",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "supermarkt",
-      "source": "Firecrawl: SPAR Angebote",
-      "url": "https://www.spar.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:54:59.975Z"
-    },
-    {
-      "id": "fc-SPAR-1789296899975-p0w85",
-      "brand": "SPAR",
-      "logo": "🛒",
-      "title": "!SPAR-Flugblatt-Icon](https://www.spar.at/aktionen \"Zu den SPAR Aktion",
-      "description": "SPAR Angebote: !SPAR-Flugblatt-Icon](https://www.spar.at/aktionen \"Zu den SPAR Aktion",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "supermarkt",
-      "source": "Firecrawl: SPAR Angebote",
-      "url": "https://www.spar.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:54:59.975Z"
-    },
-    {
-      "id": "fc-SPAR-1789296899975-7lqwx",
-      "brand": "SPAR",
-      "logo": "🛒",
-      "title": "Zum Seitenanfang",
-      "description": "SPAR Angebote: Zum Seitenanfang",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "supermarkt",
-      "source": "Firecrawl: SPAR Angebote",
-      "url": "https://www.spar.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:54:59.975Z"
-    },
-    {
-      "id": "fc-INTERSPAR-1789296914408-83wun",
-      "brand": "INTERSPAR",
-      "logo": "🛒",
-      "title": "!2026HeaderVerteilerseite-Angebote.jpg!2026HeaderVerteilerseite-Angebo",
-      "description": "INTERSPAR: !2026HeaderVerteilerseite-Angebote.jpg!2026HeaderVerteilerseite-Angebo",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "supermarkt",
-      "source": "Firecrawl: INTERSPAR",
-      "url": "https://www.interspar.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:55:14.408Z"
-    },
-    {
-      "id": "fc-INTERSPAR-1789296914408-4f4q7",
-      "brand": "INTERSPAR",
-      "logo": "🛒",
-      "title": "Alle laufenden Angebote und Vergünstigungen im Überblick",
-      "description": "INTERSPAR: Alle laufenden Angebote und Vergünstigungen im Überblick",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "supermarkt",
-      "source": "Firecrawl: INTERSPAR",
-      "url": "https://www.interspar.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:55:14.408Z"
-    },
-    {
-      "id": "fc-INTERSPAR-1789296914408-ho3lv",
-      "brand": "INTERSPAR",
-      "logo": "🛒",
-      "title": "Top-Produkte von zum besten Preis: INTERSPAR macht’s möglich! Mit unse",
-      "description": "INTERSPAR: Top-Produkte von zum besten Preis: INTERSPAR macht’s möglich! Mit unse",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "supermarkt",
-      "source": "Firecrawl: INTERSPAR",
-      "url": "https://www.interspar.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:55:14.408Z"
-    },
-    {
-      "id": "fc-INTERSPAR-1789296914408-znnjo",
-      "brand": "INTERSPAR",
-      "logo": "🛒",
-      "title": "SUPERKAUF: Online zugreifen und sparen",
-      "description": "INTERSPAR: SUPERKAUF: Online zugreifen und sparen",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "supermarkt",
-      "source": "Firecrawl: INTERSPAR",
-      "url": "https://www.interspar.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:55:14.408Z"
-    },
-    {
-      "id": "fc-INTERSPAR-1789296914408-2lchk",
-      "brand": "INTERSPAR",
-      "logo": "🛒",
-      "title": "Ob Trockner, Geschirr-Set oder Kinderspielzeug – der INTERSPAR SUPERKA",
-      "description": "INTERSPAR: Ob Trockner, Geschirr-Set oder Kinderspielzeug – der INTERSPAR SUPERKA",
-      "type": "gratis",
-      "badge": "gratis",
-      "category": "supermarkt",
-      "source": "Firecrawl: INTERSPAR",
-      "url": "https://www.interspar.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": true,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:55:14.408Z"
-    },
-    {
-      "id": "fc-MediaMarkt-1789296920659-98o08",
-      "brand": "MediaMarkt",
-      "logo": "📺",
-      "title": "Zum Hauptinhalt wechseln",
-      "description": "MediaMarkt: Zum Hauptinhalt wechseln",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "technik",
-      "source": "Firecrawl: MediaMarkt",
-      "url": "https://www.mediamarkt.at/de/campaign/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:55:20.659Z"
-    },
-    {
-      "id": "fc-MediaMarkt-1789296920659-7f6lm",
-      "brand": "MediaMarkt",
-      "logo": "📺",
-      "title": "- Gratis Paketversand für myMediaMarkt ab 49,-³",
-      "description": "MediaMarkt: - Gratis Paketversand für myMediaMarkt ab 49,-³",
-      "type": "gratis",
-      "badge": "gratis",
-      "category": "technik",
-      "source": "Firecrawl: MediaMarkt",
-      "url": "https://www.mediamarkt.at/de/campaign/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": true,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:55:20.659Z"
-    },
-    {
-      "id": "fc-Saturn-1789296925315-bkulj",
-      "brand": "Saturn",
-      "logo": "📺",
-      "title": "Mega-Sale bei MediaMarkt!",
-      "description": "Saturn: Mega-Sale bei MediaMarkt!",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "technik",
-      "source": "Firecrawl: Saturn",
-      "url": "https://www.saturn.at/de/campaign/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:55:25.315Z"
-    },
-    {
-      "id": "fc-Saturn-1789296925315-31jsd",
-      "brand": "Saturn",
-      "logo": "📺",
-      "title": "![](https://cms-images.mmst.eu/mxc6gd3algv5/2ESwTNsp6ieiISakPi1noB/63a",
-      "description": "Saturn: ![](https://cms-images.mmst.eu/mxc6gd3algv5/2ESwTNsp6ieiISakPi1noB/63a",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "technik",
-      "source": "Firecrawl: Saturn",
-      "url": "https://www.saturn.at/de/campaign/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:55:25.315Z"
-    },
-    {
-      "id": "fc-Saturn-1789296925315-vmd7p",
-      "brand": "Saturn",
-      "logo": "📺",
-      "title": "Zu den Angeboten",
-      "description": "Saturn: Zu den Angeboten",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "technik",
-      "source": "Firecrawl: Saturn",
-      "url": "https://www.saturn.at/de/campaign/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:55:25.315Z"
-    },
-    {
-      "id": "fc-Saturn-1789296925315-fvbmf",
-      "brand": "Saturn",
-      "logo": "📺",
-      "title": "Entdecke starke Angebote für genussvolle Kaffeemomente, gesunde Küche ",
-      "description": "Saturn: Entdecke starke Angebote für genussvolle Kaffeemomente, gesunde Küche ",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "technik",
-      "source": "Firecrawl: Saturn",
-      "url": "https://www.saturn.at/de/campaign/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:55:25.315Z"
-    },
-    {
-      "id": "fc-Douglas-1789296931925-w94zm",
-      "brand": "Douglas",
-      "logo": "💄",
-      "title": "2 Gratis-Proben nach Wahl ab 10 € ¹ Versandkostenfrei ab 39,95 € 3–5 W",
-      "description": "Douglas: 2 Gratis-Proben nach Wahl ab 10 € ¹ Versandkostenfrei ab 39,95 € 3–5 W",
-      "type": "gratis",
-      "badge": "gratis",
-      "category": "beauty",
-      "source": "Firecrawl: Douglas",
-      "url": "https://www.douglas.at/de/c/sale/01",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": true,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:55:31.925Z"
-    },
-    {
-      "id": "fc-Douglas-1789296931925-wmaj7",
-      "brand": "Douglas",
-      "logo": "💄",
-      "title": "Jetzt App downloaden & exklusive Deals, Rabatte und Geschenke sichern!",
-      "description": "Douglas: Jetzt App downloaden & exklusive Deals, Rabatte und Geschenke sichern!",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "beauty",
-      "source": "Firecrawl: Douglas",
-      "url": "https://www.douglas.at/de/c/sale/01",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:55:31.925Z"
-    },
-    {
-      "id": "fc-Douglas-1789296931925-ahuxz",
-      "brand": "Douglas",
-      "logo": "💄",
-      "title": "Angebote Angebote Menü öffnen",
-      "description": "Douglas: Angebote Angebote Menü öffnen",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "beauty",
-      "source": "Firecrawl: Douglas",
-      "url": "https://www.douglas.at/de/c/sale/01",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:55:31.925Z"
-    },
-    {
-      "id": "fc-Douglas-1789296931925-17y6z",
-      "brand": "Douglas",
-      "logo": "💄",
-      "title": "Sale Sale Menü öffnen",
-      "description": "Douglas: Sale Sale Menü öffnen",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "beauty",
-      "source": "Firecrawl: Douglas",
-      "url": "https://www.douglas.at/de/c/sale/01",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:55:31.925Z"
-    },
-    {
-      "id": "fc-Douglas-1789296931926-gy469",
-      "brand": "Douglas",
-      "logo": "💄",
-      "title": "50 ml (€ 250,00 / 100 ml)\\\\",
-      "description": "Douglas: 50 ml (€ 250,00 / 100 ml)\\\\",
-      "type": "gratis",
-      "badge": "gratis",
-      "category": "beauty",
-      "source": "Firecrawl: Douglas",
-      "url": "https://www.douglas.at/de/c/sale/01",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": true,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:55:31.926Z"
-    },
-    {
-      "id": "fc-BIPA-1789296935088-wlhe7",
-      "brand": "BIPA",
-      "logo": "💇",
-      "title": "10% 26DE1616-57D6-408A-8F66-14D3D4E6F40864B08BCF-4E29-4D11-B9A7-E8B92F8A1B",
-      "description": "BIPA: 26DE1616-57D6-408A-8F66-14D3D4E6F40864B08BCF-4E29-4D11-B9A7-E8B92F8A1B",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "beauty",
-      "source": "Firecrawl: BIPA",
-      "url": "https://www.bipa.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": false,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:55:35.088Z"
-    },
-    {
-      "id": "fc-BIPA-1789296935088-e9dkd",
-      "brand": "BIPA",
-      "logo": "💇",
-      "title": "Weiter zum Inhalt",
-      "description": "BIPA: Weiter zum Inhalt",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "beauty",
-      "source": "Firecrawl: BIPA",
-      "url": "https://www.bipa.at/angebote",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:55:35.088Z"
-    },
-    {
-      "id": "fc-Müller-1789296938006-pre9n",
-      "brand": "Müller",
-      "logo": "🧴",
-      "title": "Zur Navigation springen Zum Hauptinhalt springen",
-      "description": "Müller: Zur Navigation springen Zum Hauptinhalt springen",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "beauty",
-      "source": "Firecrawl: Müller",
-      "url": "https://www.mueller.at/angebote/",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:55:38.006Z"
-    },
-    {
-      "id": "fc-Müller-1789296938006-85s0e",
-      "brand": "Müller",
-      "logo": "🧴",
-      "title": "Bitte benutzen Sie unsere Suchfunktion oder wählen Sie aus, in welcher",
-      "description": "Müller: Bitte benutzen Sie unsere Suchfunktion oder wählen Sie aus, in welcher",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "beauty",
-      "source": "Firecrawl: Müller",
-      "url": "https://www.mueller.at/angebote/",
-      "expires": "Begrenzt",
-      "distance": "Österreich",
-      "hot": null,
-      "isNew": true,
-      "pubDate": "2026-09-13T10:55:38.006Z"
-    },
     {
       "id": "top-1",
       "brand": "OMV VIVA",
@@ -556,7 +148,7 @@
       "priority": 2
     },
     {
-      "id": "html-MeinBezirk-1789288108461-0980i",
+      "id": "html-MeinBezirk-1789305941264-hlg4w",
       "brand": "MeinBezirk",
       "logo": "📰",
       "title": "🎁 Gratis Deal via MeinBezirk",
@@ -570,10 +162,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-09-13T08:28:28.461Z"
+      "pubDate": "2026-09-13T13:25:41.264Z"
     },
     {
-      "id": "html-Kurier-1789288108598-m4jcj",
+      "id": "html-Kurier-1789305942754-gjbbb",
       "brand": "Kurier",
       "logo": "📰",
       "title": "🎁 Gratis Deal via Kurier",
@@ -587,10 +179,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-09-13T08:28:28.598Z"
+      "pubDate": "2026-09-13T13:25:42.754Z"
     },
     {
-      "id": "html-Krone-1789288108790-kw4n9",
+      "id": "html-Krone-1789305944139-bv3w0",
       "brand": "Krone",
       "logo": "📰",
       "title": "🎁 Gratis Deal via Krone",
@@ -604,10 +196,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-09-13T08:28:28.790Z"
+      "pubDate": "2026-09-13T13:25:44.139Z"
     },
     {
-      "id": "html-Kleine-1789288110672-q95v0",
+      "id": "html-Kleine-1789305947393-2d9cs",
       "brand": "Kleine",
       "logo": "📰",
       "title": "🎁 Gratis Deal via Kleine",
@@ -621,10 +213,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-09-13T08:28:30.672Z"
+      "pubDate": "2026-09-13T13:25:47.393Z"
     },
     {
-      "id": "html-Biorama-1789288116146-jh2vf",
+      "id": "html-Biorama-1789305954845-jsv1l",
       "brand": "Biorama",
       "logo": "🌿",
       "title": "🎁 Gratis Deal via Biorama",
@@ -638,10 +230,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-09-13T08:28:36.146Z"
+      "pubDate": "2026-09-13T13:25:54.845Z"
     },
     {
-      "id": "html-PENNY-1789288121732-cxt0e",
+      "id": "html-PENNY-1789305961475-kjw6w",
       "brand": "PENNY",
       "logo": "🛒",
       "title": "🎁 Gratis Deal via PENNY",
@@ -655,10 +247,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-09-13T08:28:41.732Z"
+      "pubDate": "2026-09-13T13:26:01.475Z"
     },
     {
-      "id": "html-Nah&Frisch-1789288126559-bn21n",
+      "id": "html-Nah&Frisch-1789305967320-6jkpf",
       "brand": "Nah&Frisch",
       "logo": "🛒",
       "title": "🎁 Gratis Deal via Nah&Frisch",
@@ -672,10 +264,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-09-13T08:28:46.559Z"
+      "pubDate": "2026-09-13T13:26:07.320Z"
     },
     {
-      "id": "html-Rituals-1789288127573-1no3s",
+      "id": "html-Rituals-1789305968622-h9zn3",
       "brand": "Rituals",
       "logo": "🧴",
       "title": "🎁 Gratis Deal via Rituals",
@@ -689,10 +281,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-09-13T08:28:47.573Z"
+      "pubDate": "2026-09-13T13:26:08.622Z"
     },
     {
-      "id": "html-Starbucks-1789288138178-0x4nj",
+      "id": "html-Starbucks-1789305982748-870yn",
       "brand": "Starbucks",
       "logo": "☕",
       "title": "🎁 Gratis Deal via Starbucks",
@@ -706,10 +298,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-09-13T08:28:58.178Z"
+      "pubDate": "2026-09-13T13:26:22.748Z"
     },
     {
-      "id": "html-Samsung-1789288148841-wymkn",
+      "id": "html-Samsung-1789305993219-lv50n",
       "brand": "Samsung",
       "logo": "📱",
       "title": "🎁 Gratis Deal via Samsung",
@@ -723,10 +315,10 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-09-13T08:29:08.841Z"
+      "pubDate": "2026-09-13T13:26:33.219Z"
     },
     {
-      "id": "rss-1789288153531-g3uftdfhw",
+      "id": "rss-1789305999366-em9bmye5c",
       "brand": "Wiener",
       "logo": "📰",
       "title": "Wiener Weinwandertag beste Route Strebersdorf -Bisamberg, gratis Kulin",
@@ -743,7 +335,7 @@
       "pubDate": "2026-09-13T08:03:00.000Z"
     },
     {
-      "id": "rss-1789288153531-2ht2rtmto",
+      "id": "rss-1789305999366-y6eqls5ga",
       "brand": "Tausende",
       "logo": "📰",
       "title": "Tausende stürmen Burggarten – Mega-Schlange: Riesiger Ansturm auf Grat",
@@ -760,7 +352,7 @@
       "pubDate": "2026-09-06T15:39:00.000Z"
     },
     {
-      "id": "rss-1789288153531-12erqs9f9",
+      "id": "rss-1789305999366-ftqlsgtck",
       "brand": "Testkit",
       "logo": "📰",
       "title": "Testkit für zu Hause - Wien startet größte Gratis-Aktion gegen Darmkre",
@@ -777,7 +369,7 @@
       "pubDate": "2026-09-06T10:30:00.000Z"
     },
     {
-      "id": "rss-1789288153532-ciglrijev",
+      "id": "rss-1789305999366-5wlc9o4ga",
       "brand": "Wiener",
       "logo": "📰",
       "title": "Wiener Hundehalter aufgepasst: Diese Registrierung wird jetzt gratis -",
@@ -794,7 +386,7 @@
       "pubDate": "2026-09-08T07:00:00.000Z"
     },
     {
-      "id": "rss-1789288153532-kunnt3mf3",
+      "id": "rss-1789305999367-psfrdykxq",
       "brand": "Hundehalter",
       "logo": "📰",
       "title": "Hundehalter aufgepasst: Registrierung in Wien wird gratis - 5 Minuten",
@@ -811,24 +403,7 @@
       "pubDate": "2026-09-04T14:07:45.000Z"
     },
     {
-      "id": "rss-1789288153532-zg99q7lbh",
-      "brand": "Kids",
-      "logo": "📰",
-      "title": "Kids for Freedom: Gratis-Segelwoche für Kinder in herausfordernden Leb",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOR3FVMklITXV1c3ZBOGY3cjJJU241ZEVQTVJSelJVUzlIbklIYWtW...",
-      "type": "gratis",
-      "badge": "gratis",
-      "category": "technik",
-      "source": "Google News Wien Gratis",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR3FVMklITXV1c3ZBOGY3cjJJU241ZEVQTVJSelJVUzlIbklIYWtWMjdFaVNnd2xLeEtuRXJtRmlXZUFycjlMOXYzczZ2VkpPR29BOUtGc0hBUlh5WnV5al85OVJ3NFZvbHpGOFM4V0hJdzJPa3RQZ09pbmw2RDJBZmY2blFqczc5V2hNTFduNk5DeURUT2lwcWx3OUJnOENYVzdkaC1uTlhSMkFoS0Z2aDhVUjhWQQ?oc=5",
-      "expires": "Begrenzt",
-      "distance": "Wien",
-      "hot": true,
-      "isNew": true,
-      "pubDate": "2026-09-09T08:03:02.000Z"
-    },
-    {
-      "id": "rss-1789288153532-u0ux9qqp2",
+      "id": "rss-1789305999367-42z9kxli0",
       "brand": "Gratis-Aktion",
       "logo": "📰",
       "title": "Gratis-Aktion in Wien - Hunde können wieder kostenlos registriert werd",
@@ -845,7 +420,24 @@
       "pubDate": "2026-09-06T07:30:00.000Z"
     },
     {
-      "id": "rss-1789288153532-tvx3weirr",
+      "id": "rss-1789305999367-ctu3qcq0s",
+      "brand": "Kids",
+      "logo": "📰",
+      "title": "Kids for Freedom: Gratis-Segelwoche für Kinder in herausfordernden Leb",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOR3FVMklITXV1c3ZBOGY3cjJJU241ZEVQTVJSelJVUzlIbklIYWtW...",
+      "type": "gratis",
+      "badge": "gratis",
+      "category": "technik",
+      "source": "Google News Wien Gratis",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR3FVMklITXV1c3ZBOGY3cjJJU241ZEVQTVJSelJVUzlIbklIYWtWMjdFaVNnd2xLeEtuRXJtRmlXZUFycjlMOXYzczZ2VkpPR29BOUtGc0hBUlh5WnV5al85OVJ3NFZvbHpGOFM4V0hJdzJPa3RQZ09pbmw2RDJBZmY2blFqczc5V2hNTFduNk5DeURUT2lwcWx3OUJnOENYVzdkaC1uTlhSMkFoS0Z2aDhVUjhWQQ?oc=5",
+      "expires": "Begrenzt",
+      "distance": "Wien",
+      "hot": true,
+      "isNew": true,
+      "pubDate": "2026-09-09T08:03:02.000Z"
+    },
+    {
+      "id": "rss-1789305999367-6m6708vrh",
       "brand": "Riesiger",
       "logo": "📰",
       "title": "Riesiger Ansturm auf den Gratis-Döner bei Fedis in Wien-Favoriten. - H",
@@ -862,7 +454,7 @@
       "pubDate": "2026-09-07T16:03:05.000Z"
     },
     {
-      "id": "rss-1789288153532-l1gzwkj8x",
+      "id": "rss-1789305999367-57j7fuz3r",
       "brand": "Schüler",
       "logo": "📰",
       "title": "Schüler im Kebab-Fieber – Mega-Ansturm auf Gratis-Döner! Aktion plötzl",
@@ -879,24 +471,7 @@
       "pubDate": "2026-09-07T15:58:00.000Z"
     },
     {
-      "id": "rss-1789288153533-7ehs712fh",
-      "brand": "Google News",
-      "logo": "📰",
-      "title": "!$+[Übertragung]TV!] Wolfsberger - Rapid Wien heute GRATIS im TV sehen",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxOeDJBdG5SQU9mbmJZN3N2VTBRLVJwRHpuRURqTThNSkJkXzNNN2Z3...",
-      "type": "gratis",
-      "badge": "gratis",
-      "category": "technik",
-      "source": "Google News Wien Gratis",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOeDJBdG5SQU9mbmJZN3N2VTBRLVJwRHpuRURqTThNSkJkXzNNN2Z3QmRFN1lFbC1QQmM1QUxzUGdaX1Z1RlN3NzNqRlZ5M1dHWWM0SkpvRkVfeW1WMWdERmgwVFdOZ2xYSHRRWTRfekNOTzRKcmdpMUJDV245TlB1ckszcmxzRHhla0trSXNINC1IaXozM3lDSDROQVBvcVk0b0Q2aTZxV1dCMWZiWTdjNWZzWVozaFZTQUpUajVCMjIxcGpMVzliOWNRdlVtUlNCNTRxUUVxOHRMODktNTRkYzZzcnJQa0ZoNkNxdGRaX3V1VW1xNDByVUhOenc5d2N3NFpSSXc2dnkzS2VndkJFdXZRU1VKbE05bVVR?oc=5",
-      "expires": "Begrenzt",
-      "distance": "Wien",
-      "hot": true,
-      "isNew": true,
-      "pubDate": "2026-09-12T12:21:49.000Z"
-    },
-    {
-      "id": "rss-1789288154527-9rmza5zm0",
+      "id": "rss-1789306000616-mzvyfhes3",
       "brand": "Gratis-Produkte",
       "logo": "☕",
       "title": "Gratis-Produkte: Die besten kostenlosen Deals online und im Laden - Se",
@@ -913,7 +488,7 @@
       "pubDate": "2026-09-07T12:36:00.000Z"
     },
     {
-      "id": "html-TikTok-1789288157256-473hb",
+      "id": "html-TikTok-1789306005107-8g1bc",
       "brand": "TikTok",
       "logo": "🎵",
       "title": "🎁 Gratis Deal via TikTok",
@@ -927,7 +502,7 @@
       "distance": "Wien",
       "hot": true,
       "isNew": true,
-      "pubDate": "2026-09-13T08:29:17.256Z"
+      "pubDate": "2026-09-13T13:26:45.107Z"
     },
     {
       "id": "kaffee-2",
@@ -1140,24 +715,7 @@
       "hot": false
     },
     {
-      "id": "rss-1789288154110-8l7qg0qxb",
-      "brand": "Neueröffnungen",
-      "logo": "🆕",
-      "title": "Neueröffnungen in Wien September 2026 - Goodnight.at",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5WdUhRUlQ1SmFhS0N2c1dOakNuNFZYR3lxYjFuQ0I2R2dYaXpNd1p6...",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "wien",
-      "source": "Google News Neueröffnung",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WdUhRUlQ1SmFhS0N2c1dOakNuNFZYR3lxYjFuQ0I2R2dYaXpNd1p6aGRQNGhqZ2liMnQ1ckx6ejF5Y05adjNJc3RvX0Y4ZTRDQ2d6T3JwUUlHNHhzczNSbVFsUjlZeDM0UDVFOEZTWQ?oc=5",
-      "expires": "Neueröffnung",
-      "distance": "Wien",
-      "hot": true,
-      "isNew": true,
-      "pubDate": "2026-09-09T08:49:27.000Z"
-    },
-    {
-      "id": "rss-1789288154110-9fjf6wi1f",
+      "id": "rss-1789306000083-iabq7602u",
       "brand": "Restaurant-Neueröffnungen",
       "logo": "🆕",
       "title": "Restaurant-Neueröffnungen Österreich - In Wien und Kärnten gehen jetzt",
@@ -1174,7 +732,7 @@
       "pubDate": "2026-09-08T15:30:25.000Z"
     },
     {
-      "id": "rss-1789288155305-egzki3myx",
+      "id": "rss-1789306001545-ogdt0p6rr",
       "brand": "Neueröffnungen",
       "logo": "🎉",
       "title": "Neueröffnungen: Neue Lokale in Wien im September 2026 - oe24",
@@ -1446,7 +1004,7 @@
       "hot": true
     },
     {
-      "id": "html-ORF-1789288109799-1jua7",
+      "id": "html-ORF-1789305945410-jbf57",
       "brand": "ORF",
       "logo": "📺",
       "title": "🆕 Neueröffnung via ORF",
@@ -1460,10 +1018,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-09-13T08:28:29.799Z"
+      "pubDate": "2026-09-13T13:25:45.410Z"
     },
     {
-      "id": "html-Falter-1789288112900-bwofz",
+      "id": "html-Falter-1789305951967-podnm",
       "brand": "Falter",
       "logo": "📰",
       "title": "🆕 Neueröffnung via Falter",
@@ -1477,10 +1035,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-09-13T08:28:32.900Z"
+      "pubDate": "2026-09-13T13:25:51.967Z"
     },
     {
-      "id": "html-Falter-1789288113129-bk9tt",
+      "id": "html-Falter-1789305952305-5p3l4",
       "brand": "Falter",
       "logo": "🎉",
       "title": "💰 Rabatt via Falter",
@@ -1494,10 +1052,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-09-13T08:28:33.129Z"
+      "pubDate": "2026-09-13T13:25:52.305Z"
     },
     {
-      "id": "html-A-List-1789288117630-qwzjy",
+      "id": "html-A-List-1789305956837-qg9cq",
       "brand": "A-List",
       "logo": "⭐",
       "title": "🆕 Neueröffnung via A-List",
@@ -1511,10 +1069,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-09-13T08:28:37.630Z"
+      "pubDate": "2026-09-13T13:25:56.837Z"
     },
     {
-      "id": "html-Wien isst-1789288120243-g6b5f",
+      "id": "html-Wien isst-1789305959651-9pq3z",
       "brand": "Wien isst",
       "logo": "🍴",
       "title": "🆕 Neueröffnung via Wien isst",
@@ -1528,10 +1086,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-09-13T08:28:40.243Z"
+      "pubDate": "2026-09-13T13:25:59.651Z"
     },
     {
-      "id": "html-Nah&Frisch-1789288126559-j6mda",
+      "id": "html-Nah&Frisch-1789305967320-4w5s3",
       "brand": "Nah&Frisch",
       "logo": "🛒",
       "title": "🆕 Neueröffnung via Nah&Frisch",
@@ -1545,10 +1103,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-09-13T08:28:46.559Z"
+      "pubDate": "2026-09-13T13:26:07.320Z"
     },
     {
-      "id": "html-Five Guys-1789288134938-7aafy",
+      "id": "html-Five Guys-1789305978589-fr70q",
       "brand": "Five Guys",
       "logo": "🍔",
       "title": "💰 Rabatt via Five Guys",
@@ -1562,10 +1120,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-09-13T08:28:54.938Z"
+      "pubDate": "2026-09-13T13:26:18.589Z"
     },
     {
-      "id": "html-Plachutta-1789288137468-bgmdi",
+      "id": "html-Plachutta-1789305981658-atkde",
       "brand": "Plachutta",
       "logo": "🥘",
       "title": "💰 Rabatt via Plachutta",
@@ -1579,10 +1137,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-09-13T08:28:57.468Z"
+      "pubDate": "2026-09-13T13:26:21.658Z"
     },
     {
-      "id": "html-Aida-1789288140666-omivg",
+      "id": "html-Aida-1789305985773-bcgob",
       "brand": "Aida",
       "logo": "🎀",
       "title": "💰 Rabatt via Aida",
@@ -1596,10 +1154,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-09-13T08:29:00.666Z"
+      "pubDate": "2026-09-13T13:26:25.773Z"
     },
     {
-      "id": "html-Ströck-1789288143374-p905a",
+      "id": "html-Ströck-1789305989287-8uuka",
       "brand": "Ströck",
       "logo": "🥐",
       "title": "💰 Rabatt via Ströck",
@@ -1613,10 +1171,10 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-09-13T08:29:03.374Z"
+      "pubDate": "2026-09-13T13:26:29.287Z"
     },
     {
-      "id": "rss-1789288155789-no8ki15bt",
+      "id": "rss-1789306002269-h8jmr7yl8",
       "brand": "Turkish",
       "logo": "💰",
       "title": "Turkish Airlines: Aktionspreise ab Wien und Salzburg - TIP-Online",
@@ -1633,7 +1191,7 @@
       "pubDate": "2026-09-09T10:12:00.000Z"
     },
     {
-      "id": "rss-1789288155789-wo9nvmfdm",
+      "id": "rss-1789306002269-c9wc8sbx3",
       "brand": "Herbstliche",
       "logo": "💰",
       "title": "Herbstliche Gastronomie-Aktion in Wien: Burger-Resto Hawidere veransta",
@@ -1650,24 +1208,7 @@
       "pubDate": "2026-09-08T16:06:00.000Z"
     },
     {
-      "id": "rss-1789288155789-ndeigxcqk",
-      "brand": "Google News",
-      "logo": "💰",
-      "title": "\"Wien zeigt Herz\" – Sammelaktion für Menschen in Not - Heute",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNNjlKUHNDV00zb25TbGd3RWlHUXBwVWlneTJ6U2hjZUhPWE5TdlRF...",
-      "type": "rabatt",
-      "badge": "limited",
-      "category": "technik",
-      "source": "Google News Aktion Wien",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNjlKUHNDV00zb25TbGd3RWlHUXBwVWlneTJ6U2hjZUhPWE5TdlRFeVlzNGpBMVlOY3VNR1RBRC1NdUkyRjRfYTVMbUJyQWpLSWNGR0k2bDktZlN1dUFRWVdFV2ltTjgzaXdscDI5ZzlsekRKaVlJdFRHZDdSZjZyZk84d25qZnh2ZkE?oc=5",
-      "expires": "Begrenzt",
-      "distance": "Wien",
-      "hot": false,
-      "isNew": true,
-      "pubDate": "2026-09-06T13:24:00.000Z"
-    },
-    {
-      "id": "rss-1789288155789-mbaetetix",
+      "id": "rss-1789306002270-1s401jj4y",
       "brand": "Erzdiözese",
       "logo": "💰",
       "title": "Erzdiözese Wien - Hilfsaktion für den Libanon: „Wir dürfen einfach nic",
@@ -1684,7 +1225,7 @@
       "pubDate": "2026-09-02T07:00:00.000Z"
     },
     {
-      "id": "html-TikTok-1789288157257-35k3j",
+      "id": "html-TikTok-1789306005108-ryq8m",
       "brand": "TikTok",
       "logo": "🎵",
       "title": "💰 Rabatt via TikTok",
@@ -1698,7 +1239,7 @@
       "distance": "Wien",
       "hot": false,
       "isNew": true,
-      "pubDate": "2026-09-13T08:29:17.257Z"
+      "pubDate": "2026-09-13T13:26:45.108Z"
     },
     {
       "id": "essen-3",
